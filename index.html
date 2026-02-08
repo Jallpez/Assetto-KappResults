@@ -936,6 +936,448 @@
             .control-btn { padding: 10px 20px; font-size: 1.2em; }
             .track-info { flex-direction: column; }
         }
+
+        /* Comparativa de pilotos */
+        .compare-btn {
+            background: linear-gradient(135deg, #ff6b00 0%, #ff0000 100%);
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 1.1em;
+            font-weight: bold;
+            font-family: 'Orbitron', sans-serif;
+            margin: 20px auto;
+            display: block;
+            box-shadow: 0 5px 20px rgba(255,0,0,0.4);
+            transition: all 0.3s ease;
+        }
+
+        .compare-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 30px rgba(255,0,0,0.6);
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.8);
+            overflow-y: auto;
+        }
+
+        .modal-content {
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            margin: 2% auto;
+            padding: 30px;
+            border: 3px solid #ff0000;
+            border-radius: 15px;
+            width: 90%;
+            max-width: 1200px;
+            box-shadow: 0 10px 50px rgba(255,0,0,0.5);
+        }
+
+        .close {
+            color: #ff0000;
+            float: right;
+            font-size: 35px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .close:hover {
+            color: #fff;
+            text-shadow: 0 0 20px #ff0000;
+        }
+
+        .driver-selector {
+            display: flex;
+            gap: 20px;
+            margin: 20px 0;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .driver-selector select {
+            padding: 12px 20px;
+            font-size: 1em;
+            border-radius: 8px;
+            border: 2px solid #ff0000;
+            background: rgba(30,30,30,0.95);
+            color: #fff;
+            font-family: 'Rajdhani', sans-serif;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .driver-selector select option {
+            background: #1a1a1a;
+            color: #fff;
+            padding: 10px;
+        }
+
+        .driver-selector select option:hover,
+        .driver-selector select option:checked {
+            background: #ff0000;
+            color: #fff;
+        }
+
+        .driver-selector select:hover {
+            background: rgba(255,0,0,0.3);
+            border-color: #fff;
+        }
+
+        .compare-table {
+            width: 100%;
+            margin-top: 20px;
+            border-collapse: collapse;
+            background: rgba(20, 20, 40, 0.95);
+            border-radius: 10px;
+            overflow: hidden;
+        }
+
+        .compare-table th {
+            background: linear-gradient(135deg, #ff0000 0%, #cc0000 100%);
+            color: white;
+            padding: 15px;
+            font-family: 'Orbitron', sans-serif;
+            font-size: 1em;
+            text-transform: uppercase;
+        }
+
+        .compare-table td {
+            padding: 12px;
+            text-align: center;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            color: #fff;
+            font-family: 'Rajdhani', sans-serif;
+            font-size: 1.1em;
+        }
+
+        .compare-table tr:hover {
+            background: rgba(255,0,0,0.1);
+        }
+
+        .time-gain {
+            color: #00ff00;
+            font-weight: bold;
+        }
+
+        .time-loss {
+            color: #ff0000;
+            font-weight: bold;
+        }
+
+        .fastest-lap {
+            background: rgba(255,215,0,0.2);
+            font-weight: bold;
+        }
+
+        /* Visualización animada de coches */
+        .view-toggle {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            margin: 20px 0;
+        }
+
+        .view-toggle button {
+            padding: 10px 20px;
+            border: 2px solid #ff0000;
+            background: rgba(255,0,0,0.2);
+            color: #fff;
+            border-radius: 8px;
+            cursor: pointer;
+            font-family: 'Rajdhani', sans-serif;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        .view-toggle button.active {
+            background: #ff0000;
+            box-shadow: 0 0 20px rgba(255,0,0,0.6);
+        }
+
+        .view-toggle button:hover {
+            background: rgba(255,0,0,0.4);
+        }
+
+        .race-animation {
+            width: 100%;
+            background: linear-gradient(180deg, #1a1a1a 0%, #2a2a2a 100%);
+            border-radius: 15px;
+            padding: 30px;
+            margin-top: 20px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .race-track {
+            position: relative;
+            width: 100%;
+            min-height: 400px;
+            background: #1a1a1a;
+            border: 3px solid #ff0000;
+            border-radius: 10px;
+            padding: 20px;
+        }
+
+        .lane {
+            position: relative;
+            width: 100%;
+            height: 80px;
+            margin: 10px 0;
+            background: linear-gradient(90deg, 
+                rgba(255,0,0,0.1) 0%, 
+                rgba(255,0,0,0.05) 50%, 
+                rgba(0,255,0,0.1) 100%);
+            border-radius: 8px;
+            border: 2px solid rgba(255,255,255,0.1);
+            overflow: visible;
+        }
+
+        .lane-grid {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: repeating-linear-gradient(
+                90deg,
+                transparent 0px,
+                transparent 48px,
+                rgba(255,255,255,0.1) 48px,
+                rgba(255,255,255,0.1) 50px
+            );
+            pointer-events: none;
+        }
+
+        .progress-bar {
+            position: absolute;
+            top: 0;
+            left: 0;
+            height: 100%;
+            transition: width 0.8s ease-out;
+            background: linear-gradient(90deg, 
+                transparent 0%, 
+                currentColor 60%, 
+                currentColor 100%) !important;
+            opacity: 0.4;
+            pointer-events: none;
+        }
+
+        .car-icon {
+            position: absolute;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            width: 100px;
+            height: 70px;
+            background-image: url('./public/images/carro..png');
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+            z-index: 10;
+            transition: left 0.8s ease-out;
+            filter: drop-shadow(0 0 15px currentColor);
+        }
+
+        .lap-marker {
+            position: absolute;
+            top: -25px;
+            transform: translateX(-50%);
+            background: rgba(0,0,0,0.9);
+            color: #fff;
+            padding: 3px 8px;
+            border-radius: 5px;
+            font-size: 0.75em;
+            font-weight: bold;
+            border: 2px solid currentColor;
+            white-space: nowrap;
+            z-index: 8;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.5);
+        }
+
+        .lap-marker::after {
+            content: '';
+            position: absolute;
+            bottom: -8px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 0;
+            height: 0;
+            border-left: 5px solid transparent;
+            border-right: 5px solid transparent;
+            border-top: 8px solid currentColor;
+        }
+
+        .driver-label {
+            position: absolute;
+            left: 10px;
+            top: 50%;
+            transform: translateY(-50%);
+            font-weight: bold;
+            font-size: 1.1em;
+            color: #fff;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
+            z-index: 10;
+            font-family: 'Orbitron', sans-serif;
+        }
+
+        .time-label {
+            position: absolute;
+            right: 10px;
+            top: 50%;
+            transform: translateY(-50%);
+            font-weight: bold;
+            font-size: 1.2em;
+            padding: 5px 15px;
+            border-radius: 5px;
+            background: rgba(0,0,0,0.8);
+            font-family: 'Orbitron', sans-serif;
+            z-index: 10;
+        }
+
+        .time-label.leader {
+            color: gold;
+            border: 2px solid gold;
+        }
+
+        .time-label.gaining {
+            color: #00ff00;
+            border: 2px solid #00ff00;
+        }
+
+        .time-label.losing {
+            color: #ff0000;
+            border: 2px solid #ff0000;
+        }
+
+        .car-container {
+            position: relative;
+            width: 100%;
+            margin: 15px 0;
+            height: 60px;
+            display: flex;
+            align-items: center;
+        }
+
+        .car {
+            position: absolute;
+            left: 0;
+            width: 50px;
+            height: 40px;
+            transition: left 0.8s ease-out;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .car-body {
+            width: 50px;
+            height: 30px;
+            background: linear-gradient(135deg, #ff0000 0%, #cc0000 100%);
+            border-radius: 5px;
+            position: relative;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.5);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.7em;
+            font-weight: bold;
+            color: white;
+        }
+
+        .car-body::before {
+            content: '';
+            position: absolute;
+            top: 5px;
+            left: 5px;
+            right: 5px;
+            height: 8px;
+            background: rgba(255,255,255,0.3);
+            border-radius: 2px;
+        }
+
+        .car-name {
+            font-size: 0.85em;
+            font-weight: bold;
+            color: #fff;
+            margin-top: 2px;
+            white-space: nowrap;
+            text-shadow: 0 0 5px rgba(0,0,0,0.8);
+        }
+
+        .car-gap {
+            position: absolute;
+            right: 10px;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 1.1em;
+            font-weight: bold;
+            font-family: 'Orbitron', sans-serif;
+            padding: 5px 10px;
+            border-radius: 5px;
+            background: rgba(0,0,0,0.7);
+        }
+
+        .car-gap.leader {
+            color: gold;
+        }
+
+        .car-gap.gaining {
+            color: #00ff00;
+        }
+
+        .car-gap.losing {
+            color: #ff0000;
+        }
+
+        .lap-info {
+            text-align: center;
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #ff0000;
+            font-family: 'Orbitron', sans-serif;
+            margin-bottom: 20px;
+            text-shadow: 0 0 10px rgba(255,0,0,0.5);
+        }
+
+        .animation-controls {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            margin-top: 20px;
+        }
+
+        .animation-controls button {
+            padding: 12px 25px;
+            border: none;
+            border-radius: 8px;
+            background: linear-gradient(135deg, #ff0000 0%, #cc0000 100%);
+            color: white;
+            font-weight: bold;
+            font-family: 'Rajdhani', sans-serif;
+            cursor: pointer;
+            font-size: 1em;
+            transition: all 0.3s ease;
+        }
+
+        .animation-controls button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(255,0,0,0.5);
+        }
+
+        .animation-controls button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
     </style>
 </head>
 <body>
@@ -956,18 +1398,14 @@
             <button class="race-btn" onclick="loadRace(2)">Ronda 2</button>
             <button class="race-btn" onclick="loadRace(3)">Ronda 3</button>
             <button class="race-btn" onclick="loadRace(4)">Ronda 4</button>
-            <button class="race-btn" onclick="loadRace(5)">Ronda 5</button>
-            <button class="race-btn" onclick="loadRace(6)">Ronda 6</button>
-            <button class="race-btn" onclick="loadRace(7)">Ronda 7</button>
-            <button class="race-btn" onclick="loadRace(8)">Ronda 8</button>
-        </div>
-        
-        <div class="session-buttons" id="sessionButtons">
-            <button class="session-btn qualify" onclick="loadSession('Qualify')">📋 Clasificación</button>
-            <button class="session-btn race active" onclick="loadSession('Race')">🏁 Carrera</button>
         </div>
 
         <h1>Resultados de Carrera</h1>
+        
+        <!-- Botón de comparativa -->
+        <button class="compare-btn" onclick="openCompareModal()" id="compareBtn" style="display: none;">
+            📊 COMPARAR PILOTOS
+        </button>
         
         <!-- Información de la carrera -->
         <div class="race-info" id="raceInfo">
@@ -1019,13 +1457,41 @@
         <div id="content"></div>
     </div>
 
+    <!-- Modal de comparativa -->
+    <div id="compareModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeCompareModal()">&times;</span>
+            <h2 style="color: #ff0000; font-family: 'Orbitron', sans-serif; text-align: center; margin-bottom: 20px;">
+                📊 COMPARATIVA DE PILOTOS
+            </h2>
+            
+            <div class="driver-selector">
+                <select id="driver1Select" onchange="updateComparison()">
+                    <option value="">Selecciona Piloto 1</option>
+                </select>
+                <select id="driver2Select" onchange="updateComparison()">
+                    <option value="">Selecciona Piloto 2</option>
+                </select>
+                <select id="driver3Select" onchange="updateComparison()">
+                    <option value="">Selecciona Piloto 3 (opcional)</option>
+                </select>
+            </div>
+
+            <div class="view-toggle">
+                <button id="tableViewBtn" class="active" onclick="switchView('table')">📊 TABLA</button>
+                <button id="animationViewBtn" onclick="switchView('animation')">🏎️ ANIMACIÓN</button>
+            </div>
+
+            <div id="comparisonResult"></div>
+            <div id="animationView" style="display: none;"></div>
+        </div>
+    </div>
+
     <script>
         let data = {};
         let chart = null;
         let currentLap = 1;
         let animationInterval = null;
-        let currentRaceNumber = null;
-        let currentSession = 'Race'; // Por defecto carrera
 
         // Estilos CSS
         const styles = `
@@ -1295,14 +1761,15 @@
                             }
                         },
                         tooltip: {
-                            backgroundColor: 'rgba(0,0,0,0.9)',
+                            backgroundColor: 'rgba(0,0,0,0.95)',
                             titleColor: '#ff0000',
                             bodyColor: '#fff',
                             borderColor: '#ff0000',
-                            borderWidth: 2,
-                            padding: 12,
+                            borderWidth: 3,
+                            padding: 15,
+                            displayColors: false,
                             titleFont: {
-                                size: 14,
+                                size: 15,
                                 weight: 'bold',
                                 family: "'Orbitron', sans-serif"
                             },
@@ -1311,22 +1778,76 @@
                                 family: "'Rajdhani', sans-serif"
                             },
                             callbacks: {
+                                title: function(context) {
+                                    return `Vuelta ${context[0].dataIndex + 1}`;
+                                },
                                 label: function(context) {
-                                    const pos = allPositions[context.dataIndex]?.find(p => p.name === context.dataset.label);
-                                    if (pos) {
-                                        const driver = drivers[context.dataset.label];
-                                        let label = `${pos.name}: P${pos.position}`;
-                                        
-                                        if (context.dataIndex + 1 === driver?.bestLap.lapNumber) {
-                                            label += ` ⚡ Mejor vuelta: ${formatRaceTime(driver.bestLap.time)}`;
+                                    const lapIndex = context.dataIndex;
+                                    const driverName = context.dataset.label;
+                                    const currentPos = context.parsed.y;
+                                    const labels = [];
+                                    
+                                    // Posición actual
+                                    labels.push(`${driverName}: P${currentPos}`);
+                                    
+                                    // Detectar cambio de posición
+                                    if (lapIndex > 0) {
+                                        const previousPos = context.dataset.data[lapIndex - 1];
+                                        if (previousPos !== null && currentPos !== previousPos) {
+                                            const posChange = previousPos - currentPos;
+                                            
+                                            // Buscar con quién intercambió posición
+                                            let otherDriver = '';
+                                            const targetPosition = posChange > 0 ? currentPos : previousPos;
+                                            
+                                            context.chart.data.datasets.forEach((dataset) => {
+                                                if (dataset.label !== driverName) {
+                                                    const otherPrevPos = dataset.data[lapIndex - 1];
+                                                    const otherCurrPos = dataset.data[lapIndex];
+                                                    
+                                                    if (posChange > 0) {
+                                                        // Mejoró posición - buscar quién bajó
+                                                        if (otherPrevPos === currentPos && otherCurrPos === previousPos) {
+                                                            otherDriver = dataset.label;
+                                                        }
+                                                    } else {
+                                                        // Empeoró posición - buscar quién subió
+                                                        if (otherCurrPos === previousPos && otherPrevPos === currentPos) {
+                                                            otherDriver = dataset.label;
+                                                        }
+                                                    }
+                                                }
+                                            });
+                                            
+                                            labels.push(''); // Línea en blanco
+                                            if (posChange > 0) {
+                                                labels.push(`🔼 ADELANTA ${Math.abs(posChange)} posición${Math.abs(posChange) > 1 ? 'es' : ''}`);
+                                                if (otherDriver) {
+                                                    labels.push(`   Supera a: ${otherDriver}`);
+                                                }
+                                            } else {
+                                                labels.push(`🔽 PIERDE ${Math.abs(posChange)} posición${Math.abs(posChange) > 1 ? 'es' : ''}`);
+                                                if (otherDriver) {
+                                                    labels.push(`   Superado por: ${otherDriver}`);
+                                                }
+                                            }
                                         }
-                                        if (context.dataIndex + 1 === overallBestLap.driver.bestLap.lapNumber && 
-                                            pos.name === overallBestLap.driver.name) {
-                                            label += ` 🏁 VUELTA RÁPIDA`;
-                                        }
-                                        return label;
                                     }
-                                    return context.dataset.label;
+                                    
+                                    // Mejor vuelta
+                                    const driver = drivers[driverName];
+                                    if (lapIndex + 1 === driver?.bestLap.lapNumber) {
+                                        labels.push('');
+                                        labels.push(`⚡ MEJOR VUELTA: ${formatRaceTime(driver.bestLap.time)}`);
+                                    }
+                                    
+                                    // Vuelta rápida de la carrera
+                                    if (lapIndex + 1 === overallBestLap.driver.bestLap.lapNumber && 
+                                        driverName === overallBestLap.driver.name) {
+                                        labels.push('🏁 VUELTA MÁS RÁPIDA DE LA CARRERA');
+                                    }
+                                    
+                                    return labels;
                                 }
                             }
                         }
@@ -1390,6 +1911,10 @@
                     result.TotalTime > 0 && 
                     (result.NumLaps === totalRaceLaps || result.NumLaps === totalRaceLaps - 1))
                 .sort((a, b) => {
+                    // Usar Position del CSV si existe, sino usar TotalTime
+                    if (a.Position && b.Position) {
+                        return a.Position - b.Position;
+                    }
                     if (a.NumLaps !== b.NumLaps) {
                         return b.NumLaps - a.NumLaps;
                     }
@@ -1625,13 +2150,13 @@
                 .filter(result => result.BestLap > 0)
                 .map(result => result.BestLap));
 
-            // Modificar el ordenamiento de resultados
+            // Modificar el ordenamiento de resultados - usar Position del CSV
             const sortedResults = data.Result
                 .filter(result => 
                     !result.Disqualified && 
                     result.TotalTime > 0 && 
                     result.NumLaps === totalRaceLaps)
-                .sort((a, b) => a.TotalTime - b.TotalTime);
+                .sort((a, b) => (a.Position || 999) - (b.Position || 999));
 
             // Pilotos que no completaron todas las vueltas pero terminaron algunas
             const partialResults = data.Result
@@ -1703,11 +2228,13 @@
                     row.className = `position-${position}`;
                 }
                 
-                // Crear array de vueltas simulado (esto deberías adaptarlo según tu estructura JSON)
-                const lapTimes = Array.from({ length: result.NumLaps }, (_, i) => ({
-                    time: result.BestLap * (1 + Math.random() * 0.1), // Simulación de tiempos
-                    lapNumber: i + 1
-                }));
+                // Obtener los tiempos reales de vuelta del piloto desde data.Laps
+                const lapTimes = data.Laps
+                    .filter(lap => lap.DriverName === result.DriverName)
+                    .map((lap, index) => ({
+                        time: lap.LapTime,
+                        lapNumber: index + 1
+                    }));
 
                 const bestLapClass = result.BestLap === overallBestLap ? 'best-lap' : '';
                 
@@ -1887,30 +2414,7 @@
         }
 
         function loadRace(raceNumber) {
-            currentRaceNumber = raceNumber;
-            currentSession = 'Race'; // Resetear a Race por defecto
-            // Mostrar botones de sesión
-            document.getElementById('sessionButtons').style.display = 'block';
-            // Resetear botones activos
-            document.querySelectorAll('.session-btn').forEach(btn => {
-                btn.classList.remove('active');
-            });
-            document.querySelector('.session-btn.race').classList.add('active');
-            // Cargar la carrera por defecto
-            loadSession('Race');
-        }
-        
-        function loadSession(sessionType) {
-            if (!currentRaceNumber) return;
-            
-            currentSession = sessionType;
-            const racePath = `SuperGT/Ronda ${currentRaceNumber} - ${sessionType}.json`;
-            
-            // Actualizar botones activos
-            document.querySelectorAll('.session-btn').forEach(btn => {
-                btn.classList.remove('active');
-            });
-            document.querySelector(`.session-btn.${sessionType.toLowerCase()}`).classList.add('active');
+            const racePath = `SuperGT/Ronda ${raceNumber}.json`;
             
             // Limpiar el intervalo de animación existente si lo hay
             if (animationInterval) {
@@ -1934,18 +2438,19 @@
                         updateRaceInfo(data);
                         updateTable();
                         updateParticipationTable();
+                        // Mostrar botón de comparativa
+                        document.getElementById('compareBtn').style.display = 'block';
                     }
                 })
                 .catch(error => {
-                    console.error('Error al cargar la sesión:', error);
-                    // Destruir el chart existente si hay error
+                    console.error('Error al cargar la ronda:', error);
                     if (chart) {
                         chart.destroy();
                         chart = null;
                     }
-                    document.getElementById('raceInfo').innerHTML = '<h2>Aun no hay datos de esta sesión</h2>';
+                    document.getElementById('raceInfo').innerHTML = '<h2>Aun no hay datos de esta ronda</h2>';
                     document.getElementById('tableBody').innerHTML = 
-                        '<tr><td colspan="9">Aun no hay datos de esta sesión</td></tr>';
+                        '<tr><td colspan="9">Aun no hay datos de esta ronda</td></tr>';
                     document.getElementById('participationTableBody').innerHTML = '';
                 });
         }
@@ -1957,6 +2462,390 @@
             } else {
                 lapTimesDiv.style.display = 'none';
             }
+        }
+
+        // Funciones de comparativa de pilotos
+        let comparisonAnimationInterval = null;
+        let currentComparisonLap = 0;
+        let lapMarkers = []; // Guardar marcadores de vueltas
+        let comparisonDriversData = [];
+        let currentView = 'table';
+
+        function openCompareModal() {
+            const modal = document.getElementById('compareModal');
+            modal.style.display = 'block';
+            
+            // Poblar los selectores con los pilotos
+            const selects = ['driver1Select', 'driver2Select', 'driver3Select'];
+            const drivers = data.Result.filter(r => r.NumLaps > 0).map(r => r.DriverName);
+            
+            selects.forEach(selectId => {
+                const select = document.getElementById(selectId);
+                select.innerHTML = selectId === 'driver3Select' ? 
+                    '<option value="">Selecciona Piloto 3 (opcional)</option>' :
+                    `<option value="">Selecciona Piloto ${selectId.charAt(6)}</option>`;
+                
+                drivers.forEach(driver => {
+                    const option = document.createElement('option');
+                    option.value = driver;
+                    option.textContent = driver;
+                    select.appendChild(option);
+                });
+            });
+        }
+
+        function closeCompareModal() {
+            document.getElementById('compareModal').style.display = 'none';
+        }
+
+        function updateComparison() {
+            const driver1 = document.getElementById('driver1Select').value;
+            const driver2 = document.getElementById('driver2Select').value;
+            const driver3 = document.getElementById('driver3Select').value;
+            
+            if (!driver1 || !driver2) {
+                document.getElementById('comparisonResult').innerHTML = '';
+                document.getElementById('animationView').innerHTML = '';
+                comparisonDriversData = [];
+                return;
+            }
+            
+            const selectedDrivers = [driver1, driver2];
+            if (driver3) selectedDrivers.push(driver3);
+            
+            // Obtener las vueltas de cada piloto
+            comparisonDriversData = selectedDrivers.map(driverName => {
+                const laps = data.Laps
+                    .filter(lap => lap.DriverName === driverName)
+                    .map(lap => lap.LapTime);
+                return { name: driverName, laps: laps };
+            });
+            
+            // Actualizar la vista actual
+            if (currentView === 'table') {
+                generateComparisonTable();
+            } else {
+                setupAnimation();
+            }
+        }
+
+        function generateComparisonTable() {
+            const driversData = comparisonDriversData;
+            
+            // Calcular el número máximo de vueltas
+            const maxLaps = Math.max(...driversData.map(d => d.laps.length));
+            
+            // Crear tabla de comparación
+            let html = '<table class="compare-table"><thead><tr>';
+            html += '<th>Vuelta</th>';
+            driversData.forEach(d => {
+                html += `<th>${d.name}</th>`;
+            });
+            html += '<th>Diferencia</th>';
+            html += '</tr></thead><tbody>';
+            
+            // Tiempos acumulados
+            const accumulatedTimes = driversData.map(() => 0);
+            
+            for (let i = 0; i < maxLaps; i++) {
+                html += '<tr>';
+                html += `<td><strong>V${i + 1}</strong></td>`;
+                
+                // Tiempos de vuelta
+                const lapTimes = driversData.map((d, idx) => {
+                    if (i < d.laps.length) {
+                        accumulatedTimes[idx] += d.laps[i];
+                        return d.laps[i];
+                    }
+                    return null;
+                });
+                
+                // Encontrar el más rápido de esta vuelta
+                const validTimes = lapTimes.filter(t => t !== null);
+                const fastestLap = validTimes.length > 0 ? Math.min(...validTimes) : null;
+                
+                // Mostrar tiempos
+                lapTimes.forEach(time => {
+                    if (time !== null) {
+                        const isFastest = time === fastestLap;
+                        const className = isFastest ? 'fastest-lap' : '';
+                        html += `<td class="${className}">${formatTime(time)}</td>`;
+                    } else {
+                        html += '<td>-</td>';
+                    }
+                });
+                
+                // Calcular diferencias acumuladas respecto al líder
+                const minAccumulated = Math.min(...accumulatedTimes.filter((_, idx) => lapTimes[idx] !== null));
+                const differences = accumulatedTimes.map((acc, idx) => {
+                    if (lapTimes[idx] === null) return null;
+                    return acc - minAccumulated;
+                });
+                
+                // Mostrar diferencias
+                html += '<td>';
+                differences.forEach((diff, idx) => {
+                    if (diff !== null && idx > 0) {
+                        if (diff === 0) {
+                            html += `<span style="color: #fff;">${driversData[idx].name}: 0.000</span><br>`;
+                        } else {
+                            const sign = diff > 0 ? '+' : '';
+                            const className = diff > 0 ? 'time-loss' : 'time-gain';
+                            html += `<span class="${className}">${driversData[idx].name}: ${sign}${(diff/1000).toFixed(3)}</span><br>`;
+                        }
+                    }
+                });
+                html += '</td>';
+                
+                html += '</tr>';
+            }
+            
+            html += '</tbody></table>';
+            
+            // Resumen final
+            html += '<div style="margin-top: 20px; padding: 20px; background: rgba(255,0,0,0.1); border-radius: 10px; color: #fff;">';
+            html += '<h3 style="color: #ff0000; font-family: Orbitron, sans-serif;">📈 RESUMEN FINAL</h3>';
+            driversData.forEach((d, idx) => {
+                const totalTime = accumulatedTimes[idx];
+                const diff = totalTime - Math.min(...accumulatedTimes);
+                html += `<p style="font-size: 1.1em;"><strong>${d.name}:</strong> ${formatTime(totalTime)}`;
+                if (diff > 0) {
+                    html += ` <span class="time-loss">(+${(diff/1000).toFixed(3)})</span>`;
+                } else {
+                    html += ` <span style="color: gold;">🏆 LÍDER</span>`;
+                }
+                html += '</p>';
+            });
+            html += '</div>';
+            
+            document.getElementById('comparisonResult').innerHTML = html;
+        }
+
+        // Cerrar modal al hacer clic fuera
+        window.onclick = function(event) {
+            const modal = document.getElementById('compareModal');
+            if (event.target == modal) {
+                closeCompareModal();
+            }
+        }
+
+        function switchView(view) {
+            currentView = view;
+            document.getElementById('tableViewBtn').classList.toggle('active', view === 'table');
+            document.getElementById('animationViewBtn').classList.toggle('active', view === 'animation');
+            
+            if (view === 'table') {
+                document.getElementById('comparisonResult').style.display = 'block';
+                document.getElementById('animationView').style.display = 'none';
+                if (comparisonAnimationInterval) {
+                    clearInterval(comparisonAnimationInterval);
+                    comparisonAnimationInterval = null;
+                }
+                // Regenerar la tabla para asegurar que se muestra
+                generateComparisonTable();
+            } else {
+                document.getElementById('comparisonResult').style.display = 'none';
+                document.getElementById('animationView').style.display = 'block';
+                setupAnimation();
+            }
+        }
+
+        function setupAnimation() {
+            if (comparisonDriversData.length < 2) return;
+            
+            const maxLaps = Math.max(...comparisonDriversData.map(d => d.laps.length));
+            
+            // Limpiar marcadores anteriores
+            lapMarkers.forEach(marker => {
+                if (marker && marker.parentNode) {
+                    marker.parentNode.removeChild(marker);
+                }
+            });
+            lapMarkers = [];
+            
+            let html = '<div class="race-animation">';
+            html += '<div class="lap-info" id="animationLapInfo">Vuelta 1 / ' + maxLaps + '</div>';
+            html += '<div class="race-track" id="raceTrack">';
+            
+            // Crear carriles para cada piloto (estilo carrera de caballos)
+            comparisonDriversData.forEach((driver, idx) => {
+                const colors = ['#ff0000', '#0066ff', '#00ff00'];
+                html += `<div class="lane" id="lane${idx}">`;
+                html += `<div class="lane-grid"></div>`;
+                html += `<div class="driver-label">${driver.name}</div>`;
+                html += `<div class="progress-bar" id="progress${idx}" style="width: 0%; color: ${colors[idx]};"></div>`;
+                html += `<div class="car-icon" id="car${idx}" style="left: 0%; color: ${colors[idx]};"></div>`;
+                html += `<div class="time-label leader" id="gap${idx}">0.000</div>`;
+                html += `</div>`;
+            });
+            
+            html += '</div>';
+            html += '<div class="animation-controls">';
+            html += '<button onclick="startAnimation()">▶ INICIAR</button>';
+            html += '<button onclick="pauseAnimation()">⏸ PAUSAR</button>';
+            html += '<button onclick="resetAnimation()">⟲ REINICIAR</button>';
+            html += '</div>';
+            html += '</div>';
+            
+            document.getElementById('animationView').innerHTML = html;
+            currentComparisonLap = 0;
+        }
+
+        function startAnimation() {
+            if (comparisonAnimationInterval) return;
+            
+            const maxLaps = Math.max(...comparisonDriversData.map(d => d.laps.length));
+            
+            comparisonAnimationInterval = setInterval(() => {
+                if (currentComparisonLap < maxLaps) {
+                    currentComparisonLap++;
+                    updateAnimationFrame();
+                } else {
+                    pauseAnimation();
+                }
+            }, 1000); // 1 segundo por vuelta
+        }
+
+        function pauseAnimation() {
+            if (comparisonAnimationInterval) {
+                clearInterval(comparisonAnimationInterval);
+                comparisonAnimationInterval = null;
+            }
+        }
+
+        function resetAnimation() {
+            pauseAnimation();
+            currentComparisonLap = 0;
+            
+            // Limpiar marcadores anteriores
+            lapMarkers.forEach(marker => {
+                if (marker && marker.parentNode) {
+                    marker.parentNode.removeChild(marker);
+                }
+            });
+            lapMarkers = [];
+            
+            updateAnimationFrame();
+        }
+
+        function updateAnimationFrame() {
+            const maxLaps = Math.max(...comparisonDriversData.map(d => d.laps.length));
+            document.getElementById('animationLapInfo').textContent = 
+                `Vuelta ${currentComparisonLap} / ${maxLaps}`;
+            
+            if (currentComparisonLap === 0) {
+                // Posición inicial
+                comparisonDriversData.forEach((driver, idx) => {
+                    const progressBar = document.getElementById(`progress${idx}`);
+                    const gap = document.getElementById(`gap${idx}`);
+                    const carIcon = document.getElementById(`car${idx}`);
+                    if (progressBar) progressBar.style.width = '0%';
+                    if (carIcon) carIcon.style.left = '0%';
+                    if (gap) {
+                        gap.textContent = '0.000';
+                        gap.className = 'time-label leader';
+                    }
+                });
+                return;
+            }
+            
+            // Calcular tiempos acumulados hasta la vuelta actual
+            const accumulatedTimes = comparisonDriversData.map(driver => {
+                let total = 0;
+                for (let i = 0; i < currentComparisonLap && i < driver.laps.length; i++) {
+                    total += driver.laps[i];
+                }
+                return total;
+            });
+            
+            // Encontrar el líder actual (menor tiempo acumulado)
+            const leaderTime = Math.min(...accumulatedTimes);
+            
+            // Actualizar barra de progreso de cada piloto
+            comparisonDriversData.forEach((driver, idx) => {
+                const gap = accumulatedTimes[idx] - leaderTime;
+                const gapSeconds = gap / 1000;
+                
+                // Las barras crecen progresivamente por vuelta
+                // El líder (menor tiempo) crece MÁS RÁPIDO y llega antes al 100%
+                // Los demás crecen más lento según su gap
+                // Fórmula: (vueltas / total) * 100, pero ajustado por el tiempo
+                const baseProgress = (currentComparisonLap / maxLaps) * 100;
+                
+                // Amplificamos la diferencia 5 veces más para máxima separación visual
+                const timeFactor = leaderTime / accumulatedTimes[idx];
+                const amplifiedFactor = Math.pow(timeFactor, 5); // 5 veces más separación
+                
+                const progressPercent = baseProgress * amplifiedFactor;
+                
+                const progressBar = document.getElementById(`progress${idx}`);
+                const gapElement = document.getElementById(`gap${idx}`);
+                const carIcon = document.getElementById(`car${idx}`);
+                
+                if (progressBar) {
+                    progressBar.style.width = `${progressPercent}%`;
+                }
+                
+                if (carIcon) {
+                    carIcon.style.left = `${progressPercent}%`;
+                }
+                
+                // Crear marcador de vuelta (pin) cada 5 vueltas
+                if (currentComparisonLap > 0 && currentComparisonLap % 5 === 0) {
+                    const lane = document.getElementById(`lane${idx}`);
+                    if (lane) {
+                        const existingMarker = lane.querySelector(`.lap-marker[data-lap="${currentComparisonLap}"]`);
+                        if (!existingMarker) {
+                            const marker = document.createElement('div');
+                            marker.className = 'lap-marker';
+                            marker.setAttribute('data-lap', currentComparisonLap);
+                            marker.style.left = `${progressPercent}%`;
+                            marker.style.color = ['#ff0000', '#0066ff', '#00ff00'][idx];
+                            
+                            if (gap === 0) {
+                                marker.textContent = `V${currentComparisonLap} 🏆`;
+                            } else {
+                                marker.textContent = `V${currentComparisonLap} +${gapSeconds.toFixed(2)}`;
+                            }
+                            
+                            lane.appendChild(marker);
+                            lapMarkers.push(marker);
+                        }
+                    }
+                }
+                
+                if (gapElement) {
+                    if (gap === 0) {
+                        gapElement.textContent = '🏆 LÍDER';
+                        gapElement.className = 'time-label leader';
+                    } else {
+                        gapElement.textContent = `+${gapSeconds.toFixed(3)}`;
+                        
+                        // Determinar si está ganando o perdiendo tiempo
+                        if (currentComparisonLap > 1) {
+                            const prevAccumulated = comparisonDriversData.map(d => {
+                                let total = 0;
+                                for (let i = 0; i < currentComparisonLap - 1 && i < d.laps.length; i++) {
+                                    total += d.laps[i];
+                                }
+                                return total;
+                            });
+                            const prevLeaderTime = Math.min(...prevAccumulated);
+                            const prevGap = prevAccumulated[idx] - prevLeaderTime;
+                            
+                            if (gap < prevGap) {
+                                gapElement.className = 'time-label gaining';
+                            } else if (gap > prevGap) {
+                                gapElement.className = 'time-label losing';
+                            } else {
+                                gapElement.className = 'time-label';
+                            }
+                        } else {
+                            gapElement.className = 'time-label losing';
+                        }
+                    }
+                }
+            });
         }
     </script>
 </body>

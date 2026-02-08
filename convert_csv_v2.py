@@ -97,7 +97,10 @@ def convert_csv_to_json(csv_file, output_file, ronda_number):
                         continue
                     
                     best_lap = parse_time_to_ms(best_lap_str)
-                    total_time = best_lap * num_laps  # Aproximación
+                    
+                    # Calcular tiempo total real sumando todas las vueltas del piloto
+                    # (se calculará después de parsear todas las vueltas)
+                    total_time = 0  # Se actualizará después
                     
                     car_id = len(result)
                     
@@ -117,7 +120,8 @@ def convert_csv_to_json(csv_file, output_file, ronda_number):
                         "BestLap": best_lap,
                         "NumLaps": num_laps,
                         "Cuts": 0,
-                        "Team": team
+                        "Team": team,
+                        "Position": int(pos)  # Guardar posición del CSV
                     })
                     
                     cars.append({
@@ -248,6 +252,12 @@ def convert_csv_to_json(csv_file, output_file, ronda_number):
             except Exception as e:
                 print(f"Error en incidente: {e}")
                 continue
+    
+    # Calcular el tiempo total real para cada piloto sumando todas sus vueltas
+    for driver_result in result:
+        driver_name = driver_result["DriverName"]
+        driver_laps = [lap["LapTime"] for lap in laps_data if lap["DriverName"] == driver_name]
+        driver_result["TotalTime"] = sum(driver_laps)
     
     # Crear JSON
     json_data = {
