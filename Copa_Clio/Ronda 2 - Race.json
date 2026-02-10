@@ -1,0 +1,7454 @@
+{
+  "Results": [
+    {
+      "Position": 1,
+      "DriverName": "Samuel Navarro",
+      "Team": "",
+      "Car": "tmm_clio_cup_davz",
+      "BestLap": 118854,
+      "TotalTime": 1566531,
+      "NumLaps": 13,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "Disqualified": false,
+      "GridPosition": 9
+    },
+    {
+      "Position": 2,
+      "DriverName": "Sergi Morera",
+      "Team": "Buhos Racing",
+      "Car": "tmm_clio_cup_davz",
+      "BestLap": 118962,
+      "TotalTime": 1569616,
+      "NumLaps": 13,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "Disqualified": false,
+      "GridPosition": 10
+    },
+    {
+      "Position": 3,
+      "DriverName": "Rui Martins",
+      "Team": "Codoil Motorsport",
+      "Car": "tmm_clio_cup_davz",
+      "BestLap": 119608,
+      "TotalTime": 1574676,
+      "NumLaps": 13,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "Disqualified": false,
+      "GridPosition": 2
+    },
+    {
+      "Position": 4,
+      "DriverName": "José Almeida",
+      "Team": "Codoil Motorsport",
+      "Car": "tmm_clio_cup_davz",
+      "BestLap": 119767,
+      "TotalTime": 1575513,
+      "NumLaps": 13,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "Disqualified": false,
+      "GridPosition": 5
+    },
+    {
+      "Position": 5,
+      "DriverName": "German Tarazona",
+      "Team": "AGUETA RACING",
+      "Car": "tmm_clio_cup_davz",
+      "BestLap": 119946,
+      "TotalTime": 1581101,
+      "NumLaps": 13,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "Disqualified": false,
+      "GridPosition": 4
+    },
+    {
+      "Position": 6,
+      "DriverName": "Daniel Inácio",
+      "Team": "Codoil Motorsport",
+      "Car": "tmm_clio_cup_davz",
+      "BestLap": 119420,
+      "TotalTime": 1584267,
+      "NumLaps": 13,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "Disqualified": false,
+      "GridPosition": 7
+    },
+    {
+      "Position": 7,
+      "DriverName": "Alejandro Tomeno Calle",
+      "Team": "Calvos Racing Team",
+      "Car": "tmm_clio_cup_davz",
+      "BestLap": 119586,
+      "TotalTime": 1585210,
+      "NumLaps": 13,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "Disqualified": false,
+      "GridPosition": 8
+    },
+    {
+      "Position": 8,
+      "DriverName": "Miguel Mata",
+      "Team": "Codoil Motorsport",
+      "Car": "tmm_clio_cup_davz",
+      "BestLap": 119627,
+      "TotalTime": 1587733,
+      "NumLaps": 13,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "Disqualified": false,
+      "GridPosition": 11
+    },
+    {
+      "Position": 9,
+      "DriverName": "Diogo Marques",
+      "Team": "",
+      "Car": "tmm_clio_cup_davz",
+      "BestLap": 119608,
+      "TotalTime": 1588285,
+      "NumLaps": 13,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "Disqualified": false,
+      "GridPosition": 1
+    },
+    {
+      "Position": 10,
+      "DriverName": "Jose Miguel Romay",
+      "Team": "LOA Racing",
+      "Car": "tmm_clio_cup_davz",
+      "BestLap": 120649,
+      "TotalTime": 1592199,
+      "NumLaps": 13,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "Disqualified": false,
+      "GridPosition": 12
+    },
+    {
+      "Position": 11,
+      "DriverName": "Ezequiel Cherminando",
+      "Team": "Team Chermi",
+      "Car": "tmm_clio_cup_davz",
+      "BestLap": 120438,
+      "TotalTime": 1592469,
+      "NumLaps": 13,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "Disqualified": false,
+      "GridPosition": 16
+    },
+    {
+      "Position": 12,
+      "DriverName": "Daniel Zanotti",
+      "Team": "SBL TEAM",
+      "Car": "tmm_clio_cup_davz",
+      "BestLap": 120529,
+      "TotalTime": 1592501,
+      "NumLaps": 13,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "Disqualified": false,
+      "GridPosition": 19
+    },
+    {
+      "Position": 13,
+      "DriverName": "Daniel Barón",
+      "Team": "AuTornay Racing Team",
+      "Car": "tmm_clio_cup_davz",
+      "BestLap": 120395,
+      "TotalTime": 1596128,
+      "NumLaps": 13,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "Disqualified": false,
+      "GridPosition": 15
+    },
+    {
+      "Position": 14,
+      "DriverName": "Cesar Sacedo",
+      "Team": "saoca team",
+      "Car": "tmm_clio_cup_davz",
+      "BestLap": 120795,
+      "TotalTime": 1600850,
+      "NumLaps": 13,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "Disqualified": false,
+      "GridPosition": 14
+    },
+    {
+      "Position": 15,
+      "DriverName": "Jose Zurita Gómez",
+      "Team": "",
+      "Car": "tmm_clio_cup_davz",
+      "BestLap": 121318,
+      "TotalTime": 1617215,
+      "NumLaps": 13,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "Disqualified": false,
+      "GridPosition": 13
+    },
+    {
+      "Position": 16,
+      "DriverName": "Frederico Sampaio",
+      "Team": "Galgo Motorsport",
+      "Car": "tmm_clio_cup_davz",
+      "BestLap": 121753,
+      "TotalTime": 1621002,
+      "NumLaps": 13,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "Disqualified": false,
+      "GridPosition": 22
+    },
+    {
+      "Position": 17,
+      "DriverName": "Francisco Jose Perez Paredes",
+      "Team": "LOA Racing",
+      "Car": "tmm_clio_cup_davz",
+      "BestLap": 122265,
+      "TotalTime": 1622099,
+      "NumLaps": 13,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "Disqualified": false,
+      "GridPosition": 21
+    },
+    {
+      "Position": 18,
+      "DriverName": "Akira",
+      "Team": "LOA Racing",
+      "Car": "tmm_clio_cup_davz",
+      "BestLap": 122451,
+      "TotalTime": 1632483,
+      "NumLaps": 13,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "Disqualified": false,
+      "GridPosition": 25
+    },
+    {
+      "Position": 19,
+      "DriverName": "Miguel Pimenta",
+      "Team": "Codoil Motorsport",
+      "Car": "tmm_clio_cup_davz",
+      "BestLap": 121353,
+      "TotalTime": 1610523,
+      "NumLaps": 13,
+      "HasPenalty": true,
+      "PenaltyTime": 30000000000,
+      "Disqualified": false,
+      "GridPosition": 20
+    },
+    {
+      "Position": 20,
+      "DriverName": "Montoro",
+      "Team": "BMT Racing",
+      "Car": "tmm_clio_cup_davz",
+      "BestLap": 120019,
+      "TotalTime": 1612618,
+      "NumLaps": 13,
+      "HasPenalty": true,
+      "PenaltyTime": 30000000000,
+      "Disqualified": false,
+      "GridPosition": 18
+    },
+    {
+      "Position": 21,
+      "DriverName": "Rafa Alvarez",
+      "Team": "LOA Racing",
+      "Car": "tmm_clio_cup_davz",
+      "BestLap": 121606,
+      "TotalTime": 1645647,
+      "NumLaps": 13,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "Disqualified": false,
+      "GridPosition": 24
+    },
+    {
+      "Position": 22,
+      "DriverName": "Juan Carlos Ortega",
+      "Team": "LOA Racing",
+      "Car": "tmm_clio_cup_davz",
+      "BestLap": 122771,
+      "TotalTime": 1646386,
+      "NumLaps": 13,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "Disqualified": false,
+      "GridPosition": 23
+    },
+    {
+      "Position": 23,
+      "DriverName": "Sergio Diaz",
+      "Team": "",
+      "Car": "tmm_clio_cup_davz",
+      "BestLap": 122777,
+      "TotalTime": 1644098,
+      "NumLaps": 13,
+      "HasPenalty": true,
+      "PenaltyTime": 30000000000,
+      "Disqualified": false,
+      "GridPosition": 17
+    },
+    {
+      "Position": 24,
+      "DriverName": "Oscar Cabrera",
+      "Team": "Candemor Racing Team",
+      "Car": "tmm_clio_cup_davz",
+      "BestLap": 125825,
+      "TotalTime": 1674405,
+      "NumLaps": 13,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "Disqualified": false,
+      "GridPosition": 27
+    },
+    {
+      "Position": 25,
+      "DriverName": "enzo diaz cancho",
+      "Team": "full racing canary team",
+      "Car": "tmm_clio_cup_davz",
+      "BestLap": 125189,
+      "TotalTime": 1673222,
+      "NumLaps": 13,
+      "HasPenalty": true,
+      "PenaltyTime": 45000000000,
+      "Disqualified": false,
+      "GridPosition": 26
+    },
+    {
+      "Position": 26,
+      "DriverName": "Carlos Perez",
+      "Team": "Candemor Racing Team",
+      "Car": "tmm_clio_cup_davz",
+      "BestLap": 120412,
+      "TotalTime": 1572045,
+      "NumLaps": 12,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "Disqualified": false,
+      "GridPosition": 3
+    },
+    {
+      "Position": 27,
+      "DriverName": "kenpa",
+      "Team": "",
+      "Car": "tmm_clio_cup_davz",
+      "BestLap": 126339,
+      "TotalTime": 1577745,
+      "NumLaps": 12,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "Disqualified": false,
+      "GridPosition": 29
+    },
+    {
+      "Position": 28,
+      "DriverName": "Fernando Velarde López",
+      "Team": "Candemor Racing Team",
+      "Car": "tmm_clio_cup_davz",
+      "BestLap": 120166,
+      "TotalTime": 868214,
+      "NumLaps": 7,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "Disqualified": false,
+      "GridPosition": 6
+    }
+  ],
+  "Laps": [
+    {
+      "DriverName": "Rui Martins",
+      "LapTime": 127914,
+      "Sectors": [
+        49146,
+        38736,
+        40032
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773499
+    },
+    {
+      "DriverName": "José Almeida",
+      "LapTime": 129956,
+      "Sectors": [
+        50577,
+        39239,
+        40140
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773501
+    },
+    {
+      "DriverName": "Diogo Marques",
+      "LapTime": 131462,
+      "Sectors": [
+        50310,
+        39843,
+        41309
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773503
+    },
+    {
+      "DriverName": "Fernando Velarde López",
+      "LapTime": 131500,
+      "Sectors": [
+        50802,
+        39631,
+        41067
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773503
+    },
+    {
+      "DriverName": "Samuel Navarro",
+      "LapTime": 131784,
+      "Sectors": [
+        51486,
+        39744,
+        40554
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773503
+    },
+    {
+      "DriverName": "Carlos Perez",
+      "LapTime": 132494,
+      "Sectors": [
+        51449,
+        40932,
+        40113
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773504
+    },
+    {
+      "DriverName": "German Tarazona",
+      "LapTime": 133315,
+      "Sectors": [
+        51199,
+        41945,
+        40171
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773505
+    },
+    {
+      "DriverName": "Miguel Mata",
+      "LapTime": 134093,
+      "Sectors": [
+        51950,
+        41509,
+        40634
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773506
+    },
+    {
+      "DriverName": "Sergi Morera",
+      "LapTime": 134112,
+      "Sectors": [
+        51730,
+        41846,
+        40536
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773506
+    },
+    {
+      "DriverName": "Alejandro Tomeno Calle",
+      "LapTime": 134351,
+      "Sectors": [
+        51668,
+        42219,
+        40464
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773506
+    },
+    {
+      "DriverName": "Daniel Inácio",
+      "LapTime": 134894,
+      "Sectors": [
+        51987,
+        42043,
+        40864
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773506
+    },
+    {
+      "DriverName": "Jose Miguel Romay",
+      "LapTime": 135721,
+      "Sectors": [
+        53146,
+        41287,
+        41288
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773507
+    },
+    {
+      "DriverName": "Ezequiel Cherminando",
+      "LapTime": 136273,
+      "Sectors": [
+        54189,
+        41602,
+        40482
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773508
+    },
+    {
+      "DriverName": "Daniel Zanotti",
+      "LapTime": 138684,
+      "Sectors": [
+        55006,
+        41274,
+        42404
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773510
+    },
+    {
+      "DriverName": "Cesar Sacedo",
+      "LapTime": 138848,
+      "Sectors": [
+        53880,
+        42488,
+        42480
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773510
+    },
+    {
+      "DriverName": "Miguel Pimenta",
+      "LapTime": 139445,
+      "Sectors": [
+        56231,
+        41378,
+        41836
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773511
+    },
+    {
+      "DriverName": "Sergio Diaz",
+      "LapTime": 139521,
+      "Sectors": [
+        54687,
+        42268,
+        42566
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773511
+    },
+    {
+      "DriverName": "Francisco Jose Perez Paredes",
+      "LapTime": 139906,
+      "Sectors": [
+        55643,
+        41873,
+        42390
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773511
+    },
+    {
+      "DriverName": "Daniel Barón",
+      "LapTime": 139974,
+      "Sectors": [
+        53339,
+        43025,
+        43610
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773511
+    },
+    {
+      "DriverName": "Montoro",
+      "LapTime": 140131,
+      "Sectors": [
+        53861,
+        44105,
+        42165
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773512
+    },
+    {
+      "DriverName": "Frederico Sampaio",
+      "LapTime": 140897,
+      "Sectors": [
+        57472,
+        40842,
+        42583
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773512
+    },
+    {
+      "DriverName": "Akira",
+      "LapTime": 141933,
+      "Sectors": [
+        58102,
+        41917,
+        41914
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773513
+    },
+    {
+      "DriverName": "enzo diaz cancho",
+      "LapTime": 143411,
+      "Sectors": [
+        58600,
+        41891,
+        42920
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773515
+    },
+    {
+      "DriverName": "kenpa",
+      "LapTime": 144225,
+      "Sectors": [
+        60092,
+        41247,
+        42886
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773516
+    },
+    {
+      "DriverName": "Juan Carlos Ortega",
+      "LapTime": 144955,
+      "Sectors": [
+        56822,
+        40973,
+        47160
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773516
+    },
+    {
+      "DriverName": "Oscar Cabrera",
+      "LapTime": 145970,
+      "Sectors": [
+        59220,
+        41759,
+        44991
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773517
+    },
+    {
+      "DriverName": "Jose Zurita Gómez",
+      "LapTime": 146506,
+      "Sectors": [
+        53095,
+        52839,
+        40572
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773518
+    },
+    {
+      "DriverName": "Rafa Alvarez",
+      "LapTime": 148865,
+      "Sectors": [
+        58015,
+        42125,
+        48725
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773520
+    },
+    {
+      "DriverName": "Rui Martins",
+      "LapTime": 120987,
+      "Sectors": [
+        41611,
+        39056,
+        40320
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773620
+    },
+    {
+      "DriverName": "José Almeida",
+      "LapTime": 120765,
+      "Sectors": [
+        41286,
+        39433,
+        40046
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773622
+    },
+    {
+      "DriverName": "Samuel Navarro",
+      "LapTime": 120437,
+      "Sectors": [
+        42070,
+        38727,
+        39640
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773624
+    },
+    {
+      "DriverName": "Diogo Marques",
+      "LapTime": 121638,
+      "Sectors": [
+        42554,
+        39061,
+        40023
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773625
+    },
+    {
+      "DriverName": "German Tarazona",
+      "LapTime": 120484,
+      "Sectors": [
+        41225,
+        39034,
+        40225
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773625
+    },
+    {
+      "DriverName": "Carlos Perez",
+      "LapTime": 121435,
+      "Sectors": [
+        42302,
+        39061,
+        40072
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773625
+    },
+    {
+      "DriverName": "Sergi Morera",
+      "LapTime": 120177,
+      "Sectors": [
+        41782,
+        38659,
+        39736
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773626
+    },
+    {
+      "DriverName": "Alejandro Tomeno Calle",
+      "LapTime": 121827,
+      "Sectors": [
+        42627,
+        39298,
+        39902
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773628
+    },
+    {
+      "DriverName": "Daniel Inácio",
+      "LapTime": 122114,
+      "Sectors": [
+        42429,
+        39433,
+        40252
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773628
+    },
+    {
+      "DriverName": "Miguel Mata",
+      "LapTime": 123159,
+      "Sectors": [
+        42816,
+        39518,
+        40825
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773629
+    },
+    {
+      "DriverName": "Ezequiel Cherminando",
+      "LapTime": 121785,
+      "Sectors": [
+        41910,
+        39627,
+        40248
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773629
+    },
+    {
+      "DriverName": "Jose Miguel Romay",
+      "LapTime": 122352,
+      "Sectors": [
+        42072,
+        39473,
+        40807
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773629
+    },
+    {
+      "DriverName": "Daniel Zanotti",
+      "LapTime": 121302,
+      "Sectors": [
+        41804,
+        38944,
+        40554
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773631
+    },
+    {
+      "DriverName": "Cesar Sacedo",
+      "LapTime": 122119,
+      "Sectors": [
+        42154,
+        39334,
+        40631
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773632
+    },
+    {
+      "DriverName": "Miguel Pimenta",
+      "LapTime": 122781,
+      "Sectors": [
+        42285,
+        39941,
+        40555
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773634
+    },
+    {
+      "DriverName": "Fernando Velarde López",
+      "LapTime": 131946,
+      "Sectors": [
+        51963,
+        39631,
+        40352
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773635
+    },
+    {
+      "DriverName": "Daniel Barón",
+      "LapTime": 125423,
+      "Sectors": [
+        43721,
+        40991,
+        40711
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773637
+    },
+    {
+      "DriverName": "Montoro",
+      "LapTime": 126671,
+      "Sectors": [
+        43381,
+        41085,
+        42205
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773638
+    },
+    {
+      "DriverName": "Francisco Jose Perez Paredes",
+      "LapTime": 127086,
+      "Sectors": [
+        43439,
+        41059,
+        42588
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773638
+    },
+    {
+      "DriverName": "Frederico Sampaio",
+      "LapTime": 126192,
+      "Sectors": [
+        43049,
+        41122,
+        42021
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773638
+    },
+    {
+      "DriverName": "Akira",
+      "LapTime": 125756,
+      "Sectors": [
+        42862,
+        40905,
+        41989
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773639
+    },
+    {
+      "DriverName": "enzo diaz cancho",
+      "LapTime": 127083,
+      "Sectors": [
+        43684,
+        41108,
+        42291
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773642
+    },
+    {
+      "DriverName": "Jose Zurita Gómez",
+      "LapTime": 124183,
+      "Sectors": [
+        41806,
+        40617,
+        41760
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773642
+    },
+    {
+      "DriverName": "Juan Carlos Ortega",
+      "LapTime": 125943,
+      "Sectors": [
+        42558,
+        41570,
+        41815
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773642
+    },
+    {
+      "DriverName": "kenpa",
+      "LapTime": 127597,
+      "Sectors": [
+        45351,
+        40418,
+        41828
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773643
+    },
+    {
+      "DriverName": "Rafa Alvarez",
+      "LapTime": 124185,
+      "Sectors": [
+        43482,
+        39492,
+        41211
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773644
+    },
+    {
+      "DriverName": "Sergio Diaz",
+      "LapTime": 134090,
+      "Sectors": [
+        51727,
+        39811,
+        42552
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773645
+    },
+    {
+      "DriverName": "Oscar Cabrera",
+      "LapTime": 129296,
+      "Sectors": [
+        44251,
+        40622,
+        44423
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773647
+    },
+    {
+      "DriverName": "Rui Martins",
+      "LapTime": 120536,
+      "Sectors": [
+        41431,
+        38880,
+        40225
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773741
+    },
+    {
+      "DriverName": "José Almeida",
+      "LapTime": 119771,
+      "Sectors": [
+        41080,
+        38848,
+        39843
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773742
+    },
+    {
+      "DriverName": "Samuel Navarro",
+      "LapTime": 119293,
+      "Sectors": [
+        40754,
+        38719,
+        39820
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773743
+    },
+    {
+      "DriverName": "Sergi Morera",
+      "LapTime": 121693,
+      "Sectors": [
+        41517,
+        39600,
+        40576
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773747
+    },
+    {
+      "DriverName": "Diogo Marques",
+      "LapTime": 123061,
+      "Sectors": [
+        41831,
+        40289,
+        40941
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773748
+    },
+    {
+      "DriverName": "German Tarazona",
+      "LapTime": 122837,
+      "Sectors": [
+        41487,
+        40500,
+        40850
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773748
+    },
+    {
+      "DriverName": "Daniel Inácio",
+      "LapTime": 120170,
+      "Sectors": [
+        41236,
+        38722,
+        40212
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773749
+    },
+    {
+      "DriverName": "Alejandro Tomeno Calle",
+      "LapTime": 121045,
+      "Sectors": [
+        40873,
+        39047,
+        41125
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773749
+    },
+    {
+      "DriverName": "Miguel Mata",
+      "LapTime": 122337,
+      "Sectors": [
+        43343,
+        38853,
+        40141
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773751
+    },
+    {
+      "DriverName": "Jose Miguel Romay",
+      "LapTime": 122372,
+      "Sectors": [
+        43010,
+        39151,
+        40211
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773752
+    },
+    {
+      "DriverName": "Daniel Zanotti",
+      "LapTime": 121571,
+      "Sectors": [
+        41957,
+        39313,
+        40301
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773753
+    },
+    {
+      "DriverName": "Ezequiel Cherminando",
+      "LapTime": 123749,
+      "Sectors": [
+        44284,
+        39172,
+        40293
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773753
+    },
+    {
+      "DriverName": "Cesar Sacedo",
+      "LapTime": 121649,
+      "Sectors": [
+        41932,
+        39533,
+        40184
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773754
+    },
+    {
+      "DriverName": "Miguel Pimenta",
+      "LapTime": 121563,
+      "Sectors": [
+        41458,
+        39425,
+        40680
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773755
+    },
+    {
+      "DriverName": "Fernando Velarde López",
+      "LapTime": 120410,
+      "Sectors": [
+        41287,
+        38970,
+        40153
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773755
+    },
+    {
+      "DriverName": "Daniel Barón",
+      "LapTime": 120751,
+      "Sectors": [
+        41713,
+        38803,
+        40235
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773758
+    },
+    {
+      "DriverName": "Montoro",
+      "LapTime": 120288,
+      "Sectors": [
+        41106,
+        38794,
+        40388
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773759
+    },
+    {
+      "DriverName": "Francisco Jose Perez Paredes",
+      "LapTime": 122265,
+      "Sectors": [
+        42304,
+        39204,
+        40757
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773761
+    },
+    {
+      "DriverName": "Akira",
+      "LapTime": 124986,
+      "Sectors": [
+        42581,
+        40563,
+        41842
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773764
+    },
+    {
+      "DriverName": "Frederico Sampaio",
+      "LapTime": 125999,
+      "Sectors": [
+        43398,
+        40279,
+        42322
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773764
+    },
+    {
+      "DriverName": "enzo diaz cancho",
+      "LapTime": 126855,
+      "Sectors": [
+        43793,
+        40770,
+        42292
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773769
+    },
+    {
+      "DriverName": "Jose Zurita Gómez",
+      "LapTime": 126811,
+      "Sectors": [
+        44123,
+        40699,
+        41989
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773769
+    },
+    {
+      "DriverName": "Juan Carlos Ortega",
+      "LapTime": 127156,
+      "Sectors": [
+        44275,
+        41400,
+        41481
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773769
+    },
+    {
+      "DriverName": "Sergio Diaz",
+      "LapTime": 125319,
+      "Sectors": [
+        42280,
+        41062,
+        41977
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773770
+    },
+    {
+      "DriverName": "kenpa",
+      "LapTime": 127868,
+      "Sectors": [
+        44483,
+        41877,
+        41508
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773771
+    },
+    {
+      "DriverName": "Rafa Alvarez",
+      "LapTime": 127336,
+      "Sectors": [
+        42264,
+        40666,
+        44406
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773772
+    },
+    {
+      "DriverName": "Oscar Cabrera",
+      "LapTime": 126394,
+      "Sectors": [
+        44026,
+        40397,
+        41971
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773773
+    },
+    {
+      "DriverName": "Carlos Perez",
+      "LapTime": 225933,
+      "Sectors": [
+        145540,
+        39069,
+        41324
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773851
+    },
+    {
+      "DriverName": "Rui Martins",
+      "LapTime": 120287,
+      "Sectors": [
+        41204,
+        38984,
+        40099
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773861
+    },
+    {
+      "DriverName": "Samuel Navarro",
+      "LapTime": 121208,
+      "Sectors": [
+        40888,
+        39496,
+        40824
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773864
+    },
+    {
+      "DriverName": "José Almeida",
+      "LapTime": 122421,
+      "Sectors": [
+        41488,
+        39951,
+        40982
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773864
+    },
+    {
+      "DriverName": "Sergi Morera",
+      "LapTime": 119283,
+      "Sectors": [
+        40910,
+        38466,
+        39907
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773867
+    },
+    {
+      "DriverName": "German Tarazona",
+      "LapTime": 120125,
+      "Sectors": [
+        40970,
+        38971,
+        40184
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773868
+    },
+    {
+      "DriverName": "Diogo Marques",
+      "LapTime": 123256,
+      "Sectors": [
+        42656,
+        40266,
+        40334
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773871
+    },
+    {
+      "DriverName": "Daniel Inácio",
+      "LapTime": 122699,
+      "Sectors": [
+        41187,
+        41237,
+        40275
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773871
+    },
+    {
+      "DriverName": "Alejandro Tomeno Calle",
+      "LapTime": 123697,
+      "Sectors": [
+        41473,
+        41755,
+        40469
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773872
+    },
+    {
+      "DriverName": "Miguel Mata",
+      "LapTime": 121302,
+      "Sectors": [
+        41175,
+        40023,
+        40104
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773872
+    },
+    {
+      "DriverName": "Jose Miguel Romay",
+      "LapTime": 121269,
+      "Sectors": [
+        41434,
+        39407,
+        40428
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773873
+    },
+    {
+      "DriverName": "Ezequiel Cherminando",
+      "LapTime": 122119,
+      "Sectors": [
+        41695,
+        39627,
+        40797
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773875
+    },
+    {
+      "DriverName": "Daniel Zanotti",
+      "LapTime": 122668,
+      "Sectors": [
+        41740,
+        39946,
+        40982
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773876
+    },
+    {
+      "DriverName": "Cesar Sacedo",
+      "LapTime": 122209,
+      "Sectors": [
+        41632,
+        39326,
+        41251
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773876
+    },
+    {
+      "DriverName": "Fernando Velarde López",
+      "LapTime": 121232,
+      "Sectors": [
+        41393,
+        38642,
+        41197
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773876
+    },
+    {
+      "DriverName": "Miguel Pimenta",
+      "LapTime": 122368,
+      "Sectors": [
+        42507,
+        39500,
+        40361
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773878
+    },
+    {
+      "DriverName": "Daniel Barón",
+      "LapTime": 120853,
+      "Sectors": [
+        41441,
+        39151,
+        40261
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773878
+    },
+    {
+      "DriverName": "Montoro",
+      "LapTime": 120019,
+      "Sectors": [
+        41422,
+        38655,
+        39942
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773879
+    },
+    {
+      "DriverName": "Francisco Jose Perez Paredes",
+      "LapTime": 123961,
+      "Sectors": [
+        42709,
+        39969,
+        41283
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773885
+    },
+    {
+      "DriverName": "Frederico Sampaio",
+      "LapTime": 124887,
+      "Sectors": [
+        42824,
+        41315,
+        40748
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773889
+    },
+    {
+      "DriverName": "Akira",
+      "LapTime": 125743,
+      "Sectors": [
+        43172,
+        41747,
+        40824
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773890
+    },
+    {
+      "DriverName": "Jose Zurita Gómez",
+      "LapTime": 122095,
+      "Sectors": [
+        41901,
+        39775,
+        40419
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773891
+    },
+    {
+      "DriverName": "enzo diaz cancho",
+      "LapTime": 128578,
+      "Sectors": [
+        43217,
+        41545,
+        43816
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773897
+    },
+    {
+      "DriverName": "Juan Carlos Ortega",
+      "LapTime": 128210,
+      "Sectors": [
+        43772,
+        40645,
+        43793
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773898
+    },
+    {
+      "DriverName": "Sergio Diaz",
+      "LapTime": 127516,
+      "Sectors": [
+        42160,
+        44096,
+        41260
+      ],
+      "Cuts": 1,
+      "Tyre": "H",
+      "Timestamp": 1768773898
+    },
+    {
+      "DriverName": "Rafa Alvarez",
+      "LapTime": 126199,
+      "Sectors": [
+        42913,
+        40081,
+        43205
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773898
+    },
+    {
+      "DriverName": "kenpa",
+      "LapTime": 127393,
+      "Sectors": [
+        43135,
+        41234,
+        43024
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773898
+    },
+    {
+      "DriverName": "Oscar Cabrera",
+      "LapTime": 127274,
+      "Sectors": [
+        43588,
+        40882,
+        42804
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773900
+    },
+    {
+      "DriverName": "Carlos Perez",
+      "LapTime": 121558,
+      "Sectors": [
+        42241,
+        39100,
+        40217
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773973
+    },
+    {
+      "DriverName": "Rui Martins",
+      "LapTime": 120112,
+      "Sectors": [
+        41214,
+        38807,
+        40091
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773981
+    },
+    {
+      "DriverName": "Samuel Navarro",
+      "LapTime": 119216,
+      "Sectors": [
+        40799,
+        38593,
+        39824
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773983
+    },
+    {
+      "DriverName": "José Almeida",
+      "LapTime": 119767,
+      "Sectors": [
+        41309,
+        38687,
+        39771
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773984
+    },
+    {
+      "DriverName": "Sergi Morera",
+      "LapTime": 119196,
+      "Sectors": [
+        41066,
+        38475,
+        39655
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773986
+    },
+    {
+      "DriverName": "German Tarazona",
+      "LapTime": 120184,
+      "Sectors": [
+        41015,
+        39114,
+        40055
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773988
+    },
+    {
+      "DriverName": "Daniel Inácio",
+      "LapTime": 121161,
+      "Sectors": [
+        41421,
+        39392,
+        40348
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773992
+    },
+    {
+      "DriverName": "Diogo Marques",
+      "LapTime": 121938,
+      "Sectors": [
+        41761,
+        39794,
+        40383
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773993
+    },
+    {
+      "DriverName": "Miguel Mata",
+      "LapTime": 121203,
+      "Sectors": [
+        41633,
+        39348,
+        40222
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773994
+    },
+    {
+      "DriverName": "Alejandro Tomeno Calle",
+      "LapTime": 121852,
+      "Sectors": [
+        41819,
+        39443,
+        40590
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773994
+    },
+    {
+      "DriverName": "Jose Miguel Romay",
+      "LapTime": 121320,
+      "Sectors": [
+        41530,
+        39352,
+        40438
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773994
+    },
+    {
+      "DriverName": "Ezequiel Cherminando",
+      "LapTime": 121051,
+      "Sectors": [
+        41514,
+        39140,
+        40397
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773996
+    },
+    {
+      "DriverName": "Daniel Zanotti",
+      "LapTime": 120947,
+      "Sectors": [
+        41684,
+        39177,
+        40086
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773997
+    },
+    {
+      "DriverName": "Cesar Sacedo",
+      "LapTime": 121712,
+      "Sectors": [
+        42184,
+        39289,
+        40239
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773998
+    },
+    {
+      "DriverName": "Fernando Velarde López",
+      "LapTime": 122123,
+      "Sectors": [
+        42118,
+        40050,
+        39955
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768773999
+    },
+    {
+      "DriverName": "Daniel Barón",
+      "LapTime": 121528,
+      "Sectors": [
+        42018,
+        39060,
+        40450
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774000
+    },
+    {
+      "DriverName": "Miguel Pimenta",
+      "LapTime": 122734,
+      "Sectors": [
+        41959,
+        39749,
+        41026
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774000
+    },
+    {
+      "DriverName": "Francisco Jose Perez Paredes",
+      "LapTime": 123112,
+      "Sectors": [
+        42706,
+        39443,
+        40963
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774008
+    },
+    {
+      "DriverName": "Montoro",
+      "LapTime": 129291,
+      "Sectors": [
+        50486,
+        38781,
+        40024
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774008
+    },
+    {
+      "DriverName": "Frederico Sampaio",
+      "LapTime": 122165,
+      "Sectors": [
+        41764,
+        39397,
+        41004
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774012
+    },
+    {
+      "DriverName": "Akira",
+      "LapTime": 122451,
+      "Sectors": [
+        42562,
+        39371,
+        40518
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774012
+    },
+    {
+      "DriverName": "Jose Zurita Gómez",
+      "LapTime": 121893,
+      "Sectors": [
+        42013,
+        39532,
+        40348
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774013
+    },
+    {
+      "DriverName": "enzo diaz cancho",
+      "LapTime": 126951,
+      "Sectors": [
+        43548,
+        40886,
+        42517
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774024
+    },
+    {
+      "DriverName": "Sergio Diaz",
+      "LapTime": 126928,
+      "Sectors": [
+        44169,
+        40923,
+        41836
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774025
+    },
+    {
+      "DriverName": "Juan Carlos Ortega",
+      "LapTime": 127258,
+      "Sectors": [
+        45669,
+        39842,
+        41747
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774025
+    },
+    {
+      "DriverName": "Oscar Cabrera",
+      "LapTime": 126497,
+      "Sectors": [
+        44138,
+        40591,
+        41768
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774027
+    },
+    {
+      "DriverName": "Rafa Alvarez",
+      "LapTime": 137075,
+      "Sectors": [
+        57651,
+        38889,
+        40535
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774035
+    },
+    {
+      "DriverName": "kenpa",
+      "LapTime": 148753,
+      "Sectors": [
+        46945,
+        40914,
+        60894
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774047
+    },
+    {
+      "DriverName": "Carlos Perez",
+      "LapTime": 120489,
+      "Sectors": [
+        41451,
+        38920,
+        40118
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774093
+    },
+    {
+      "DriverName": "Rui Martins",
+      "LapTime": 120281,
+      "Sectors": [
+        41099,
+        38867,
+        40315
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774101
+    },
+    {
+      "DriverName": "Samuel Navarro",
+      "LapTime": 119432,
+      "Sectors": [
+        40858,
+        38471,
+        40103
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774103
+    },
+    {
+      "DriverName": "José Almeida",
+      "LapTime": 120227,
+      "Sectors": [
+        41054,
+        38971,
+        40202
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774104
+    },
+    {
+      "DriverName": "Sergi Morera",
+      "LapTime": 118962,
+      "Sectors": [
+        40837,
+        38421,
+        39704
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774105
+    },
+    {
+      "DriverName": "German Tarazona",
+      "LapTime": 120381,
+      "Sectors": [
+        41108,
+        38885,
+        40388
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774109
+    },
+    {
+      "DriverName": "Daniel Inácio",
+      "LapTime": 119961,
+      "Sectors": [
+        41211,
+        38659,
+        40091
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774112
+    },
+    {
+      "DriverName": "Diogo Marques",
+      "LapTime": 121274,
+      "Sectors": [
+        41588,
+        39420,
+        40266
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774114
+    },
+    {
+      "DriverName": "Miguel Mata",
+      "LapTime": 121077,
+      "Sectors": [
+        41364,
+        39041,
+        40672
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774115
+    },
+    {
+      "DriverName": "Alejandro Tomeno Calle",
+      "LapTime": 120794,
+      "Sectors": [
+        41189,
+        38849,
+        40756
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774115
+    },
+    {
+      "DriverName": "Jose Miguel Romay",
+      "LapTime": 120649,
+      "Sectors": [
+        41476,
+        39024,
+        40149
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774115
+    },
+    {
+      "DriverName": "Ezequiel Cherminando",
+      "LapTime": 121411,
+      "Sectors": [
+        41486,
+        39321,
+        40604
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774118
+    },
+    {
+      "DriverName": "Daniel Zanotti",
+      "LapTime": 121376,
+      "Sectors": [
+        41735,
+        39241,
+        40400
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774118
+    },
+    {
+      "DriverName": "Fernando Velarde López",
+      "LapTime": 120854,
+      "Sectors": [
+        41034,
+        39221,
+        40599
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774119
+    },
+    {
+      "DriverName": "Cesar Sacedo",
+      "LapTime": 122124,
+      "Sectors": [
+        41434,
+        39128,
+        41562
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774120
+    },
+    {
+      "DriverName": "Daniel Barón",
+      "LapTime": 121190,
+      "Sectors": [
+        41824,
+        38831,
+        40535
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774121
+    },
+    {
+      "DriverName": "Miguel Pimenta",
+      "LapTime": 122626,
+      "Sectors": [
+        42733,
+        39393,
+        40500
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774123
+    },
+    {
+      "DriverName": "Montoro",
+      "LapTime": 120797,
+      "Sectors": [
+        41332,
+        39290,
+        40175
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774129
+    },
+    {
+      "DriverName": "Francisco Jose Perez Paredes",
+      "LapTime": 123072,
+      "Sectors": [
+        42648,
+        39469,
+        40955
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774131
+    },
+    {
+      "DriverName": "Frederico Sampaio",
+      "LapTime": 122439,
+      "Sectors": [
+        41983,
+        39308,
+        41148
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774134
+    },
+    {
+      "DriverName": "Jose Zurita Gómez",
+      "LapTime": 122453,
+      "Sectors": [
+        42385,
+        39564,
+        40504
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774135
+    },
+    {
+      "DriverName": "Akira",
+      "LapTime": 124505,
+      "Sectors": [
+        42794,
+        40739,
+        40972
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774137
+    },
+    {
+      "DriverName": "Sergio Diaz",
+      "LapTime": 125308,
+      "Sectors": [
+        43484,
+        40271,
+        41553
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774150
+    },
+    {
+      "DriverName": "Juan Carlos Ortega",
+      "LapTime": 125628,
+      "Sectors": [
+        43908,
+        40441,
+        41279
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774151
+    },
+    {
+      "DriverName": "enzo diaz cancho",
+      "LapTime": 129779,
+      "Sectors": [
+        44973,
+        41696,
+        43110
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774154
+    },
+    {
+      "DriverName": "Oscar Cabrera",
+      "LapTime": 128010,
+      "Sectors": [
+        43932,
+        40877,
+        43201
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774155
+    },
+    {
+      "DriverName": "Rafa Alvarez",
+      "LapTime": 121606,
+      "Sectors": [
+        41519,
+        39038,
+        41049
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774157
+    },
+    {
+      "DriverName": "kenpa",
+      "LapTime": 130137,
+      "Sectors": [
+        47804,
+        40878,
+        41455
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774177
+    },
+    {
+      "DriverName": "Carlos Perez",
+      "LapTime": 121536,
+      "Sectors": [
+        41278,
+        39064,
+        41194
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774215
+    },
+    {
+      "DriverName": "Rui Martins",
+      "LapTime": 120058,
+      "Sectors": [
+        41061,
+        38816,
+        40181
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774222
+    },
+    {
+      "DriverName": "Samuel Navarro",
+      "LapTime": 118991,
+      "Sectors": [
+        40781,
+        38426,
+        39784
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774222
+    },
+    {
+      "DriverName": "Sergi Morera",
+      "LapTime": 119853,
+      "Sectors": [
+        40779,
+        39195,
+        39879
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774225
+    },
+    {
+      "DriverName": "José Almeida",
+      "LapTime": 121350,
+      "Sectors": [
+        41052,
+        39942,
+        40356
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774226
+    },
+    {
+      "DriverName": "German Tarazona",
+      "LapTime": 120149,
+      "Sectors": [
+        41107,
+        39105,
+        39937
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774229
+    },
+    {
+      "DriverName": "Daniel Inácio",
+      "LapTime": 119673,
+      "Sectors": [
+        40932,
+        38700,
+        40041
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774232
+    },
+    {
+      "DriverName": "Diogo Marques",
+      "LapTime": 119608,
+      "Sectors": [
+        40858,
+        38785,
+        39965
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774234
+    },
+    {
+      "DriverName": "Miguel Mata",
+      "LapTime": 119627,
+      "Sectors": [
+        41084,
+        38736,
+        39807
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774234
+    },
+    {
+      "DriverName": "Alejandro Tomeno Calle",
+      "LapTime": 119586,
+      "Sectors": [
+        41182,
+        38682,
+        39722
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774235
+    },
+    {
+      "DriverName": "Jose Miguel Romay",
+      "LapTime": 121200,
+      "Sectors": [
+        41730,
+        38974,
+        40496
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774236
+    },
+    {
+      "DriverName": "Ezequiel Cherminando",
+      "LapTime": 120651,
+      "Sectors": [
+        41320,
+        39078,
+        40253
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774238
+    },
+    {
+      "DriverName": "Daniel Zanotti",
+      "LapTime": 120998,
+      "Sectors": [
+        41907,
+        38870,
+        40221
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774239
+    },
+    {
+      "DriverName": "Fernando Velarde López",
+      "LapTime": 120166,
+      "Sectors": [
+        41169,
+        38929,
+        40068
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774240
+    },
+    {
+      "DriverName": "Cesar Sacedo",
+      "LapTime": 122058,
+      "Sectors": [
+        42146,
+        39214,
+        40698
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774242
+    },
+    {
+      "DriverName": "Daniel Barón",
+      "LapTime": 121412,
+      "Sectors": [
+        41573,
+        39024,
+        40815
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774243
+    },
+    {
+      "DriverName": "Miguel Pimenta",
+      "LapTime": 121353,
+      "Sectors": [
+        41775,
+        38997,
+        40581
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774244
+    },
+    {
+      "DriverName": "Montoro",
+      "LapTime": 120976,
+      "Sectors": [
+        41803,
+        38956,
+        40217
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774250
+    },
+    {
+      "DriverName": "Francisco Jose Perez Paredes",
+      "LapTime": 123786,
+      "Sectors": [
+        42390,
+        39757,
+        41639
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774255
+    },
+    {
+      "DriverName": "Frederico Sampaio",
+      "LapTime": 122319,
+      "Sectors": [
+        41755,
+        39852,
+        40712
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774256
+    },
+    {
+      "DriverName": "Jose Zurita Gómez",
+      "LapTime": 121318,
+      "Sectors": [
+        41330,
+        39101,
+        40887
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774257
+    },
+    {
+      "DriverName": "Akira",
+      "LapTime": 122592,
+      "Sectors": [
+        42136,
+        39802,
+        40654
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774259
+    },
+    {
+      "DriverName": "Sergio Diaz",
+      "LapTime": 124385,
+      "Sectors": [
+        42404,
+        40298,
+        41683
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774274
+    },
+    {
+      "DriverName": "Juan Carlos Ortega",
+      "LapTime": 124271,
+      "Sectors": [
+        42984,
+        39960,
+        41327
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774275
+    },
+    {
+      "DriverName": "Rafa Alvarez",
+      "LapTime": 123679,
+      "Sectors": [
+        42755,
+        40257,
+        40667
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774280
+    },
+    {
+      "DriverName": "enzo diaz cancho",
+      "LapTime": 128923,
+      "Sectors": [
+        45075,
+        42011,
+        41837
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774283
+    },
+    {
+      "DriverName": "Oscar Cabrera",
+      "LapTime": 129266,
+      "Sectors": [
+        44635,
+        42345,
+        42286
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774284
+    },
+    {
+      "DriverName": "kenpa",
+      "LapTime": 127278,
+      "Sectors": [
+        44315,
+        41216,
+        41747
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774305
+    },
+    {
+      "DriverName": "Carlos Perez",
+      "LapTime": 120726,
+      "Sectors": [
+        41490,
+        38942,
+        40294
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774336
+    },
+    {
+      "DriverName": "Samuel Navarro",
+      "LapTime": 120872,
+      "Sectors": [
+        42519,
+        38650,
+        39703
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774343
+    },
+    {
+      "DriverName": "Rui Martins",
+      "LapTime": 122558,
+      "Sectors": [
+        43075,
+        39303,
+        40180
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774344
+    },
+    {
+      "DriverName": "Sergi Morera",
+      "LapTime": 119587,
+      "Sectors": [
+        41103,
+        38546,
+        39938
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774344
+    },
+    {
+      "DriverName": "José Almeida",
+      "LapTime": 120284,
+      "Sectors": [
+        40877,
+        39187,
+        40220
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774346
+    },
+    {
+      "DriverName": "German Tarazona",
+      "LapTime": 119946,
+      "Sectors": [
+        40800,
+        38906,
+        40240
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774349
+    },
+    {
+      "DriverName": "Daniel Inácio",
+      "LapTime": 119420,
+      "Sectors": [
+        41094,
+        38429,
+        39897
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774351
+    },
+    {
+      "DriverName": "Diogo Marques",
+      "LapTime": 120016,
+      "Sectors": [
+        41185,
+        38686,
+        40145
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774354
+    },
+    {
+      "DriverName": "Alejandro Tomeno Calle",
+      "LapTime": 120717,
+      "Sectors": [
+        41521,
+        38925,
+        40271
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774355
+    },
+    {
+      "DriverName": "Miguel Mata",
+      "LapTime": 121188,
+      "Sectors": [
+        41636,
+        38804,
+        40748
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774355
+    },
+    {
+      "DriverName": "Jose Miguel Romay",
+      "LapTime": 121122,
+      "Sectors": [
+        41148,
+        39325,
+        40649
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774357
+    },
+    {
+      "DriverName": "Ezequiel Cherminando",
+      "LapTime": 121031,
+      "Sectors": [
+        41390,
+        39070,
+        40571
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774359
+    },
+    {
+      "DriverName": "Daniel Zanotti",
+      "LapTime": 121809,
+      "Sectors": [
+        41425,
+        38938,
+        41446
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774361
+    },
+    {
+      "DriverName": "Daniel Barón",
+      "LapTime": 121808,
+      "Sectors": [
+        41848,
+        39506,
+        40454
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774364
+    },
+    {
+      "DriverName": "Cesar Sacedo",
+      "LapTime": 123016,
+      "Sectors": [
+        42272,
+        40019,
+        40725
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774365
+    },
+    {
+      "DriverName": "Miguel Pimenta",
+      "LapTime": 121914,
+      "Sectors": [
+        42075,
+        39501,
+        40338
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774366
+    },
+    {
+      "DriverName": "Montoro",
+      "LapTime": 120497,
+      "Sectors": [
+        41523,
+        38780,
+        40194
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774370
+    },
+    {
+      "DriverName": "Francisco Jose Perez Paredes",
+      "LapTime": 122913,
+      "Sectors": [
+        42570,
+        39383,
+        40960
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774377
+    },
+    {
+      "DriverName": "Jose Zurita Gómez",
+      "LapTime": 121524,
+      "Sectors": [
+        42292,
+        38808,
+        40424
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774378
+    },
+    {
+      "DriverName": "Frederico Sampaio",
+      "LapTime": 123920,
+      "Sectors": [
+        43690,
+        39793,
+        40437
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774380
+    },
+    {
+      "DriverName": "Akira",
+      "LapTime": 122904,
+      "Sectors": [
+        42543,
+        39725,
+        40636
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774382
+    },
+    {
+      "DriverName": "Sergio Diaz",
+      "LapTime": 122906,
+      "Sectors": [
+        41789,
+        39857,
+        41260
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774397
+    },
+    {
+      "DriverName": "Juan Carlos Ortega",
+      "LapTime": 122771,
+      "Sectors": [
+        42465,
+        39465,
+        40841
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774398
+    },
+    {
+      "DriverName": "Rafa Alvarez",
+      "LapTime": 122118,
+      "Sectors": [
+        41829,
+        39186,
+        41103
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774402
+    },
+    {
+      "DriverName": "enzo diaz cancho",
+      "LapTime": 127081,
+      "Sectors": [
+        43862,
+        40798,
+        42421
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774410
+    },
+    {
+      "DriverName": "Oscar Cabrera",
+      "LapTime": 126858,
+      "Sectors": [
+        43738,
+        40761,
+        42359
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774411
+    },
+    {
+      "DriverName": "kenpa",
+      "LapTime": 128528,
+      "Sectors": [
+        44851,
+        41125,
+        42552
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774433
+    },
+    {
+      "DriverName": "Carlos Perez",
+      "LapTime": 121239,
+      "Sectors": [
+        42241,
+        38903,
+        40095
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774457
+    },
+    {
+      "DriverName": "Samuel Navarro",
+      "LapTime": 118974,
+      "Sectors": [
+        40831,
+        38524,
+        39619
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774462
+    },
+    {
+      "DriverName": "Sergi Morera",
+      "LapTime": 119741,
+      "Sectors": [
+        41405,
+        38556,
+        39780
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774464
+    },
+    {
+      "DriverName": "Rui Martins",
+      "LapTime": 121358,
+      "Sectors": [
+        41951,
+        38912,
+        40495
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774465
+    },
+    {
+      "DriverName": "José Almeida",
+      "LapTime": 119819,
+      "Sectors": [
+        41002,
+        38840,
+        39977
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774466
+    },
+    {
+      "DriverName": "German Tarazona",
+      "LapTime": 120127,
+      "Sectors": [
+        40684,
+        39082,
+        40361
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774469
+    },
+    {
+      "DriverName": "Daniel Inácio",
+      "LapTime": 120035,
+      "Sectors": [
+        41043,
+        38681,
+        40311
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774471
+    },
+    {
+      "DriverName": "Diogo Marques",
+      "LapTime": 120299,
+      "Sectors": [
+        41523,
+        38852,
+        39924
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774474
+    },
+    {
+      "DriverName": "Alejandro Tomeno Calle",
+      "LapTime": 120429,
+      "Sectors": [
+        41067,
+        39154,
+        40208
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774476
+    },
+    {
+      "DriverName": "Miguel Mata",
+      "LapTime": 120518,
+      "Sectors": [
+        41359,
+        39010,
+        40149
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774476
+    },
+    {
+      "DriverName": "Jose Miguel Romay",
+      "LapTime": 121009,
+      "Sectors": [
+        41381,
+        39412,
+        40216
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774478
+    },
+    {
+      "DriverName": "Ezequiel Cherminando",
+      "LapTime": 120936,
+      "Sectors": [
+        41313,
+        39100,
+        40523
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774480
+    },
+    {
+      "DriverName": "Daniel Zanotti",
+      "LapTime": 120622,
+      "Sectors": [
+        41638,
+        39010,
+        39974
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774481
+    },
+    {
+      "DriverName": "Daniel Barón",
+      "LapTime": 120395,
+      "Sectors": [
+        41286,
+        38889,
+        40220
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774485
+    },
+    {
+      "DriverName": "Cesar Sacedo",
+      "LapTime": 121020,
+      "Sectors": [
+        41558,
+        39087,
+        40375
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774486
+    },
+    {
+      "DriverName": "Miguel Pimenta",
+      "LapTime": 121473,
+      "Sectors": [
+        41728,
+        39236,
+        40509
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774488
+    },
+    {
+      "DriverName": "Montoro",
+      "LapTime": 120116,
+      "Sectors": [
+        41412,
+        38830,
+        39874
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774490
+    },
+    {
+      "DriverName": "Jose Zurita Gómez",
+      "LapTime": 123281,
+      "Sectors": [
+        42290,
+        39893,
+        41098
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774502
+    },
+    {
+      "DriverName": "Francisco Jose Perez Paredes",
+      "LapTime": 124051,
+      "Sectors": [
+        42803,
+        39821,
+        41427
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774502
+    },
+    {
+      "DriverName": "Frederico Sampaio",
+      "LapTime": 122407,
+      "Sectors": [
+        42127,
+        40261,
+        40019
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774503
+    },
+    {
+      "DriverName": "Akira",
+      "LapTime": 122606,
+      "Sectors": [
+        42516,
+        39343,
+        40747
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774505
+    },
+    {
+      "DriverName": "Sergio Diaz",
+      "LapTime": 125161,
+      "Sectors": [
+        42752,
+        41153,
+        41256
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774523
+    },
+    {
+      "DriverName": "Juan Carlos Ortega",
+      "LapTime": 125391,
+      "Sectors": [
+        42843,
+        41355,
+        41193
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774523
+    },
+    {
+      "DriverName": "Rafa Alvarez",
+      "LapTime": 121860,
+      "Sectors": [
+        41759,
+        39564,
+        40537
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774524
+    },
+    {
+      "DriverName": "enzo diaz cancho",
+      "LapTime": 128251,
+      "Sectors": [
+        43660,
+        41157,
+        43434
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774538
+    },
+    {
+      "DriverName": "Oscar Cabrera",
+      "LapTime": 128502,
+      "Sectors": [
+        43456,
+        41148,
+        43898
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774539
+    },
+    {
+      "DriverName": "kenpa",
+      "LapTime": 127226,
+      "Sectors": [
+        44431,
+        41220,
+        41575
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774560
+    },
+    {
+      "DriverName": "Carlos Perez",
+      "LapTime": 121374,
+      "Sectors": [
+        41687,
+        39582,
+        40105
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774578
+    },
+    {
+      "DriverName": "Samuel Navarro",
+      "LapTime": 119015,
+      "Sectors": [
+        40715,
+        38466,
+        39834
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774581
+    },
+    {
+      "DriverName": "Sergi Morera",
+      "LapTime": 119158,
+      "Sectors": [
+        40980,
+        38353,
+        39825
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774583
+    },
+    {
+      "DriverName": "Rui Martins",
+      "LapTime": 120197,
+      "Sectors": [
+        41128,
+        38907,
+        40162
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774586
+    },
+    {
+      "DriverName": "José Almeida",
+      "LapTime": 120314,
+      "Sectors": [
+        41110,
+        38997,
+        40207
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774586
+    },
+    {
+      "DriverName": "German Tarazona",
+      "LapTime": 121101,
+      "Sectors": [
+        41505,
+        39411,
+        40185
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774590
+    },
+    {
+      "DriverName": "Daniel Inácio",
+      "LapTime": 119693,
+      "Sectors": [
+        41110,
+        38659,
+        39924
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774591
+    },
+    {
+      "DriverName": "Diogo Marques",
+      "LapTime": 120864,
+      "Sectors": [
+        41641,
+        39137,
+        40086
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774595
+    },
+    {
+      "DriverName": "Alejandro Tomeno Calle",
+      "LapTime": 120446,
+      "Sectors": [
+        41705,
+        38696,
+        40045
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774596
+    },
+    {
+      "DriverName": "Miguel Mata",
+      "LapTime": 120530,
+      "Sectors": [
+        41695,
+        39001,
+        39834
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774596
+    },
+    {
+      "DriverName": "Jose Miguel Romay",
+      "LapTime": 120857,
+      "Sectors": [
+        41217,
+        39212,
+        40428
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774599
+    },
+    {
+      "DriverName": "Ezequiel Cherminando",
+      "LapTime": 120757,
+      "Sectors": [
+        41445,
+        39041,
+        40271
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774601
+    },
+    {
+      "DriverName": "Daniel Zanotti",
+      "LapTime": 120529,
+      "Sectors": [
+        41370,
+        38916,
+        40243
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774602
+    },
+    {
+      "DriverName": "Daniel Barón",
+      "LapTime": 120755,
+      "Sectors": [
+        41047,
+        39101,
+        40607
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774605
+    },
+    {
+      "DriverName": "Cesar Sacedo",
+      "LapTime": 121288,
+      "Sectors": [
+        41696,
+        38935,
+        40657
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774607
+    },
+    {
+      "DriverName": "Miguel Pimenta",
+      "LapTime": 122201,
+      "Sectors": [
+        42101,
+        39736,
+        40364
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774610
+    },
+    {
+      "DriverName": "Montoro",
+      "LapTime": 120638,
+      "Sectors": [
+        41619,
+        38736,
+        40283
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774611
+    },
+    {
+      "DriverName": "Jose Zurita Gómez",
+      "LapTime": 121507,
+      "Sectors": [
+        41911,
+        38880,
+        40716
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774623
+    },
+    {
+      "DriverName": "Francisco Jose Perez Paredes",
+      "LapTime": 122829,
+      "Sectors": [
+        42657,
+        39410,
+        40762
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774624
+    },
+    {
+      "DriverName": "Frederico Sampaio",
+      "LapTime": 121753,
+      "Sectors": [
+        41963,
+        39304,
+        40486
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774624
+    },
+    {
+      "DriverName": "Akira",
+      "LapTime": 123618,
+      "Sectors": [
+        42442,
+        40248,
+        40928
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774628
+    },
+    {
+      "DriverName": "Sergio Diaz",
+      "LapTime": 123359,
+      "Sectors": [
+        42314,
+        39979,
+        41066
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774646
+    },
+    {
+      "DriverName": "Rafa Alvarez",
+      "LapTime": 122723,
+      "Sectors": [
+        42236,
+        39708,
+        40779
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774647
+    },
+    {
+      "DriverName": "Juan Carlos Ortega",
+      "LapTime": 125586,
+      "Sectors": [
+        42916,
+        39816,
+        42854
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774649
+    },
+    {
+      "DriverName": "enzo diaz cancho",
+      "LapTime": 127176,
+      "Sectors": [
+        43611,
+        41364,
+        42201
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774665
+    },
+    {
+      "DriverName": "Oscar Cabrera",
+      "LapTime": 126850,
+      "Sectors": [
+        43762,
+        40874,
+        42214
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774666
+    },
+    {
+      "DriverName": "kenpa",
+      "LapTime": 126934,
+      "Sectors": [
+        44175,
+        41134,
+        41625
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774687
+    },
+    {
+      "DriverName": "Samuel Navarro",
+      "LapTime": 119154,
+      "Sectors": [
+        40705,
+        38497,
+        39952
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774700
+    },
+    {
+      "DriverName": "Carlos Perez",
+      "LapTime": 122359,
+      "Sectors": [
+        41391,
+        39046,
+        41922
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774701
+    },
+    {
+      "DriverName": "Sergi Morera",
+      "LapTime": 119318,
+      "Sectors": [
+        41005,
+        38506,
+        39807
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774702
+    },
+    {
+      "DriverName": "Rui Martins",
+      "LapTime": 119608,
+      "Sectors": [
+        40998,
+        38839,
+        39771
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774705
+    },
+    {
+      "DriverName": "José Almeida",
+      "LapTime": 120247,
+      "Sectors": [
+        41187,
+        38736,
+        40324
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774706
+    },
+    {
+      "DriverName": "German Tarazona",
+      "LapTime": 120402,
+      "Sectors": [
+        40702,
+        39253,
+        40447
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774710
+    },
+    {
+      "DriverName": "Daniel Inácio",
+      "LapTime": 119910,
+      "Sectors": [
+        40912,
+        39037,
+        39961
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774711
+    },
+    {
+      "DriverName": "Diogo Marques",
+      "LapTime": 120518,
+      "Sectors": [
+        41354,
+        38818,
+        40346
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774715
+    },
+    {
+      "DriverName": "Alejandro Tomeno Calle",
+      "LapTime": 119941,
+      "Sectors": [
+        40993,
+        39204,
+        39744
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774716
+    },
+    {
+      "DriverName": "Miguel Mata",
+      "LapTime": 120477,
+      "Sectors": [
+        41574,
+        38875,
+        40028
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774717
+    },
+    {
+      "DriverName": "Jose Miguel Romay",
+      "LapTime": 121304,
+      "Sectors": [
+        41258,
+        39565,
+        40481
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774721
+    },
+    {
+      "DriverName": "Ezequiel Cherminando",
+      "LapTime": 120912,
+      "Sectors": [
+        41608,
+        39047,
+        40257
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774722
+    },
+    {
+      "DriverName": "Daniel Zanotti",
+      "LapTime": 120700,
+      "Sectors": [
+        41576,
+        39043,
+        40081
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774723
+    },
+    {
+      "DriverName": "Daniel Barón",
+      "LapTime": 120589,
+      "Sectors": [
+        41565,
+        38970,
+        40054
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774726
+    },
+    {
+      "DriverName": "Cesar Sacedo",
+      "LapTime": 120795,
+      "Sectors": [
+        41531,
+        38781,
+        40483
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774728
+    },
+    {
+      "DriverName": "Miguel Pimenta",
+      "LapTime": 123977,
+      "Sectors": [
+        42329,
+        40082,
+        41566
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774734
+    },
+    {
+      "DriverName": "Montoro",
+      "LapTime": 132528,
+      "Sectors": [
+        41690,
+        39565,
+        51273
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774743
+    },
+    {
+      "DriverName": "Jose Zurita Gómez",
+      "LapTime": 122045,
+      "Sectors": [
+        42170,
+        39101,
+        40774
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774745
+    },
+    {
+      "DriverName": "Frederico Sampaio",
+      "LapTime": 122563,
+      "Sectors": [
+        42683,
+        39132,
+        40748
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774747
+    },
+    {
+      "DriverName": "Francisco Jose Perez Paredes",
+      "LapTime": 123407,
+      "Sectors": [
+        43312,
+        39375,
+        40720
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774748
+    },
+    {
+      "DriverName": "Akira",
+      "LapTime": 125657,
+      "Sectors": [
+        43181,
+        41279,
+        41197
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774754
+    },
+    {
+      "DriverName": "Sergio Diaz",
+      "LapTime": 123762,
+      "Sectors": [
+        42181,
+        40109,
+        41472
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774770
+    },
+    {
+      "DriverName": "Rafa Alvarez",
+      "LapTime": 123046,
+      "Sectors": [
+        41668,
+        39965,
+        41413
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774770
+    },
+    {
+      "DriverName": "Juan Carlos Ortega",
+      "LapTime": 122800,
+      "Sectors": [
+        42313,
+        39649,
+        40838
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774771
+    },
+    {
+      "DriverName": "enzo diaz cancho",
+      "LapTime": 125189,
+      "Sectors": [
+        42830,
+        41167,
+        41192
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774791
+    },
+    {
+      "DriverName": "Oscar Cabrera",
+      "LapTime": 127405,
+      "Sectors": [
+        43890,
+        40635,
+        42880
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774794
+    },
+    {
+      "DriverName": "kenpa",
+      "LapTime": 126339,
+      "Sectors": [
+        44173,
+        40671,
+        41495
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774814
+    },
+    {
+      "DriverName": "Samuel Navarro",
+      "LapTime": 118854,
+      "Sectors": [
+        40747,
+        38466,
+        39641
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774819
+    },
+    {
+      "DriverName": "Sergi Morera",
+      "LapTime": 119509,
+      "Sectors": [
+        41007,
+        38610,
+        39892
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774822
+    },
+    {
+      "DriverName": "Carlos Perez",
+      "LapTime": 122509,
+      "Sectors": [
+        42035,
+        40167,
+        40307
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774823
+    },
+    {
+      "DriverName": "Rui Martins",
+      "LapTime": 120277,
+      "Sectors": [
+        41387,
+        38799,
+        40091
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774826
+    },
+    {
+      "DriverName": "José Almeida",
+      "LapTime": 120048,
+      "Sectors": [
+        41072,
+        38935,
+        40041
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774826
+    },
+    {
+      "DriverName": "German Tarazona",
+      "LapTime": 121319,
+      "Sectors": [
+        41066,
+        39421,
+        40832
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774832
+    },
+    {
+      "DriverName": "Daniel Inácio",
+      "LapTime": 124663,
+      "Sectors": [
+        40895,
+        39231,
+        44537
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774836
+    },
+    {
+      "DriverName": "Alejandro Tomeno Calle",
+      "LapTime": 120790,
+      "Sectors": [
+        41198,
+        39492,
+        40100
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774837
+    },
+    {
+      "DriverName": "Diogo Marques",
+      "LapTime": 122430,
+      "Sectors": [
+        41834,
+        40334,
+        40262
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774838
+    },
+    {
+      "DriverName": "Miguel Mata",
+      "LapTime": 121270,
+      "Sectors": [
+        41705,
+        39245,
+        40320
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774838
+    },
+    {
+      "DriverName": "Jose Miguel Romay",
+      "LapTime": 121165,
+      "Sectors": [
+        41303,
+        39353,
+        40509
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774842
+    },
+    {
+      "DriverName": "Ezequiel Cherminando",
+      "LapTime": 120438,
+      "Sectors": [
+        41278,
+        38997,
+        40163
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774843
+    },
+    {
+      "DriverName": "Daniel Zanotti",
+      "LapTime": 120749,
+      "Sectors": [
+        41513,
+        38844,
+        40392
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774843
+    },
+    {
+      "DriverName": "Daniel Barón",
+      "LapTime": 120889,
+      "Sectors": [
+        41550,
+        39091,
+        40248
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774847
+    },
+    {
+      "DriverName": "Cesar Sacedo",
+      "LapTime": 121900,
+      "Sectors": [
+        41814,
+        38992,
+        41094
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774850
+    },
+    {
+      "DriverName": "Miguel Pimenta",
+      "LapTime": 123712,
+      "Sectors": [
+        42249,
+        40247,
+        41216
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774857
+    },
+    {
+      "DriverName": "Montoro",
+      "LapTime": 120231,
+      "Sectors": [
+        41472,
+        38870,
+        39889
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774864
+    },
+    {
+      "DriverName": "Jose Zurita Gómez",
+      "LapTime": 121836,
+      "Sectors": [
+        41547,
+        39699,
+        40590
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774867
+    },
+    {
+      "DriverName": "Frederico Sampaio",
+      "LapTime": 122703,
+      "Sectors": [
+        42292,
+        39213,
+        41198
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774870
+    },
+    {
+      "DriverName": "Francisco Jose Perez Paredes",
+      "LapTime": 122564,
+      "Sectors": [
+        42325,
+        39285,
+        40954
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774870
+    },
+    {
+      "DriverName": "Akira",
+      "LapTime": 124351,
+      "Sectors": [
+        42645,
+        40113,
+        41593
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774879
+    },
+    {
+      "DriverName": "Sergio Diaz",
+      "LapTime": 122777,
+      "Sectors": [
+        41831,
+        39889,
+        41057
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774892
+    },
+    {
+      "DriverName": "Rafa Alvarez",
+      "LapTime": 123247,
+      "Sectors": [
+        41941,
+        39767,
+        41539
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774893
+    },
+    {
+      "DriverName": "Juan Carlos Ortega",
+      "LapTime": 122874,
+      "Sectors": [
+        41977,
+        39717,
+        41180
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774894
+    },
+    {
+      "DriverName": "enzo diaz cancho",
+      "LapTime": 127456,
+      "Sectors": [
+        43796,
+        41536,
+        42124
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774918
+    },
+    {
+      "DriverName": "Oscar Cabrera",
+      "LapTime": 125825,
+      "Sectors": [
+        44002,
+        40176,
+        41647
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774920
+    },
+    {
+      "DriverName": "Samuel Navarro",
+      "LapTime": 119286,
+      "Sectors": [
+        40976,
+        38466,
+        39844
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774938
+    },
+    {
+      "DriverName": "Sergi Morera",
+      "LapTime": 119066,
+      "Sectors": [
+        41140,
+        38300,
+        39626
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774941
+    },
+    {
+      "DriverName": "Carlos Perez",
+      "LapTime": 120412,
+      "Sectors": [
+        41460,
+        38911,
+        40041
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774943
+    },
+    {
+      "DriverName": "Rui Martins",
+      "LapTime": 120588,
+      "Sectors": [
+        41306,
+        38907,
+        40375
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774946
+    },
+    {
+      "DriverName": "José Almeida",
+      "LapTime": 120581,
+      "Sectors": [
+        41435,
+        38925,
+        40221
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774947
+    },
+    {
+      "DriverName": "kenpa",
+      "LapTime": 135512,
+      "Sectors": [
+        44568,
+        49531,
+        41413
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774949
+    },
+    {
+      "DriverName": "German Tarazona",
+      "LapTime": 120764,
+      "Sectors": [
+        40948,
+        39154,
+        40662
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774953
+    },
+    {
+      "DriverName": "Daniel Inácio",
+      "LapTime": 120074,
+      "Sectors": [
+        40937,
+        38917,
+        40220
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774956
+    },
+    {
+      "DriverName": "Alejandro Tomeno Calle",
+      "LapTime": 119800,
+      "Sectors": [
+        40964,
+        38691,
+        40145
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774957
+    },
+    {
+      "DriverName": "Miguel Mata",
+      "LapTime": 120961,
+      "Sectors": [
+        41208,
+        39676,
+        40077
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774959
+    },
+    {
+      "DriverName": "Diogo Marques",
+      "LapTime": 121976,
+      "Sectors": [
+        41777,
+        39690,
+        40509
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774960
+    },
+    {
+      "DriverName": "Jose Miguel Romay",
+      "LapTime": 121888,
+      "Sectors": [
+        41482,
+        39416,
+        40990
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774964
+    },
+    {
+      "DriverName": "Ezequiel Cherminando",
+      "LapTime": 121369,
+      "Sectors": [
+        41256,
+        39262,
+        40851
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774964
+    },
+    {
+      "DriverName": "Daniel Zanotti",
+      "LapTime": 120711,
+      "Sectors": [
+        41614,
+        38781,
+        40316
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774964
+    },
+    {
+      "DriverName": "Daniel Barón",
+      "LapTime": 120610,
+      "Sectors": [
+        41320,
+        38893,
+        40397
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774968
+    },
+    {
+      "DriverName": "Cesar Sacedo",
+      "LapTime": 122095,
+      "Sectors": [
+        41640,
+        39393,
+        41062
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774972
+    },
+    {
+      "DriverName": "Miguel Pimenta",
+      "LapTime": 124485,
+      "Sectors": [
+        42503,
+        40203,
+        41779
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774982
+    },
+    {
+      "DriverName": "Montoro",
+      "LapTime": 120514,
+      "Sectors": [
+        41368,
+        38912,
+        40234
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774984
+    },
+    {
+      "DriverName": "Jose Zurita Gómez",
+      "LapTime": 121770,
+      "Sectors": [
+        41998,
+        39357,
+        40415
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774989
+    },
+    {
+      "DriverName": "Frederico Sampaio",
+      "LapTime": 122840,
+      "Sectors": [
+        42232,
+        39186,
+        41422
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774992
+    },
+    {
+      "DriverName": "Francisco Jose Perez Paredes",
+      "LapTime": 123235,
+      "Sectors": [
+        42154,
+        39073,
+        42008
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768774994
+    },
+    {
+      "DriverName": "Akira",
+      "LapTime": 125416,
+      "Sectors": [
+        43795,
+        39807,
+        41814
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768775004
+    },
+    {
+      "DriverName": "Sergio Diaz",
+      "LapTime": 123028,
+      "Sectors": [
+        41907,
+        40031,
+        41090
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768775016
+    },
+    {
+      "DriverName": "Rafa Alvarez",
+      "LapTime": 123796,
+      "Sectors": [
+        42593,
+        40419,
+        40784
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768775017
+    },
+    {
+      "DriverName": "Juan Carlos Ortega",
+      "LapTime": 123560,
+      "Sectors": [
+        42200,
+        40325,
+        41035
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768775018
+    },
+    {
+      "DriverName": "enzo diaz cancho",
+      "LapTime": 126582,
+      "Sectors": [
+        43106,
+        41769,
+        41707
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768775045
+    },
+    {
+      "DriverName": "Oscar Cabrera",
+      "LapTime": 126281,
+      "Sectors": [
+        43697,
+        40379,
+        42205
+      ],
+      "Cuts": 0,
+      "Tyre": "H",
+      "Timestamp": 1768775046
+    }
+  ],
+  "Events": [
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 29,
+      "ImpactSpeed": 9.156236,
+      "Timestamp": 1768773393,
+      "DriverName": "Diogo Marques",
+      "Team": "",
+      "OtherDriverName": "German Tarazona",
+      "OtherTeam": "AGUETA RACING"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 4,
+      "ImpactSpeed": 2.7624598,
+      "Timestamp": 1768773393,
+      "DriverName": "Daniel Zanotti",
+      "Team": "SBL TEAM",
+      "OtherDriverName": "Ezequiel Cherminando",
+      "OtherTeam": "Team Chermi"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 28,
+      "ImpactSpeed": 1.9714661,
+      "Timestamp": 1768773395,
+      "DriverName": "German Tarazona",
+      "Team": "AGUETA RACING",
+      "OtherDriverName": "Diogo Marques",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 20,
+      "ImpactSpeed": 7.1650558,
+      "Timestamp": 1768773396,
+      "DriverName": "Ezequiel Cherminando",
+      "Team": "Team Chermi",
+      "OtherDriverName": "Daniel Zanotti",
+      "OtherTeam": "SBL TEAM"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 5,
+      "ImpactSpeed": 27.415945,
+      "Timestamp": 1768773398,
+      "DriverName": "Frederico Sampaio",
+      "Team": "Galgo Motorsport",
+      "OtherDriverName": "Rafa Alvarez",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 29,
+      "ImpactSpeed": 5.059416,
+      "Timestamp": 1768773398,
+      "DriverName": "Diogo Marques",
+      "Team": "",
+      "OtherDriverName": "German Tarazona",
+      "OtherTeam": "AGUETA RACING"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 6,
+      "ImpactSpeed": 4.1614437,
+      "Timestamp": 1768773398,
+      "DriverName": "Fernando Velarde López",
+      "Team": "Candemor Racing Team",
+      "OtherDriverName": "José Almeida",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 14,
+      "ImpactSpeed": 3.4400342,
+      "Timestamp": 1768773398,
+      "DriverName": "Alejandro Tomeno Calle",
+      "Team": "Calvos Racing Team",
+      "OtherDriverName": "Carlos Perez",
+      "OtherTeam": "Candemor Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 22,
+      "ImpactSpeed": 28.371582,
+      "Timestamp": 1768773400,
+      "DriverName": "enzo diaz cancho",
+      "Team": "full racing canary team",
+      "OtherDriverName": "Rafa Alvarez",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 28,
+      "ImpactSpeed": 2.4701366,
+      "Timestamp": 1768773400,
+      "DriverName": "German Tarazona",
+      "Team": "AGUETA RACING",
+      "OtherDriverName": "Diogo Marques",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 3,
+      "ImpactSpeed": 25.488546,
+      "Timestamp": 1768773400,
+      "DriverName": "Rafa Alvarez",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Frederico Sampaio",
+      "OtherTeam": "Galgo Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 3,
+      "ImpactSpeed": 32.92278,
+      "Timestamp": 1768773400,
+      "DriverName": "Rafa Alvarez",
+      "Team": "LOA Racing",
+      "OtherDriverName": "enzo diaz cancho",
+      "OtherTeam": "full racing canary team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 25,
+      "ImpactSpeed": 8.9272,
+      "Timestamp": 1768773401,
+      "DriverName": "José Almeida",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "Fernando Velarde López",
+      "OtherTeam": "Candemor Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 16,
+      "ImpactSpeed": 3.5637786,
+      "Timestamp": 1768773401,
+      "DriverName": "Carlos Perez",
+      "Team": "Candemor Racing Team",
+      "OtherDriverName": "Alejandro Tomeno Calle",
+      "OtherTeam": "Calvos Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 8,
+      "ImpactSpeed": 2.2700002,
+      "Timestamp": 1768773401,
+      "DriverName": "Samuel Navarro",
+      "Team": "",
+      "OtherDriverName": "Fernando Velarde López",
+      "OtherTeam": "Candemor Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 6,
+      "ImpactSpeed": 1.3069314,
+      "Timestamp": 1768773403,
+      "DriverName": "Fernando Velarde López",
+      "Team": "Candemor Racing Team",
+      "OtherDriverName": "Samuel Navarro",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 4,
+      "ImpactSpeed": 3.9289727,
+      "Timestamp": 1768773403,
+      "DriverName": "Daniel Zanotti",
+      "Team": "SBL TEAM",
+      "OtherDriverName": "Sergio Diaz",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 22,
+      "ImpactSpeed": 5.591388,
+      "Timestamp": 1768773405,
+      "DriverName": "enzo diaz cancho",
+      "Team": "full racing canary team",
+      "OtherDriverName": "Rafa Alvarez",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 3,
+      "ImpactSpeed": 11.319087,
+      "Timestamp": 1768773405,
+      "DriverName": "Rafa Alvarez",
+      "Team": "LOA Racing",
+      "OtherDriverName": "enzo diaz cancho",
+      "OtherTeam": "full racing canary team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 15,
+      "ImpactSpeed": 7.8364944,
+      "Timestamp": 1768773406,
+      "DriverName": "Juan Carlos Ortega",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Miguel Pimenta",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 13,
+      "ImpactSpeed": 3.4278955,
+      "Timestamp": 1768773406,
+      "DriverName": "Miguel Pimenta",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "Juan Carlos Ortega",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 13,
+      "ImpactSpeed": 4.1598873,
+      "Timestamp": 1768773411,
+      "DriverName": "Miguel Pimenta",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "Juan Carlos Ortega",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 28,
+      "ImpactSpeed": 5.5036674,
+      "Timestamp": 1768773420,
+      "DriverName": "German Tarazona",
+      "Team": "AGUETA RACING",
+      "OtherDriverName": "Samuel Navarro",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 8,
+      "ImpactSpeed": 5.972177,
+      "Timestamp": 1768773421,
+      "DriverName": "Samuel Navarro",
+      "Team": "",
+      "OtherDriverName": "German Tarazona",
+      "OtherTeam": "AGUETA RACING"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 7,
+      "ImpactSpeed": 7.7333636,
+      "Timestamp": 1768773423,
+      "DriverName": "Sergi Morera",
+      "Team": "Buhos Racing",
+      "OtherDriverName": "Alejandro Tomeno Calle",
+      "OtherTeam": "Calvos Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 14,
+      "ImpactSpeed": 9.080844,
+      "Timestamp": 1768773424,
+      "DriverName": "Alejandro Tomeno Calle",
+      "Team": "Calvos Racing Team",
+      "OtherDriverName": "Sergi Morera",
+      "OtherTeam": "Buhos Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 8,
+      "ImpactSpeed": 2.517167,
+      "Timestamp": 1768773426,
+      "DriverName": "Samuel Navarro",
+      "Team": "",
+      "OtherDriverName": "Alejandro Tomeno Calle",
+      "OtherTeam": "Calvos Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 14,
+      "ImpactSpeed": 3.351569,
+      "Timestamp": 1768773429,
+      "DriverName": "Alejandro Tomeno Calle",
+      "Team": "Calvos Racing Team",
+      "OtherDriverName": "Samuel Navarro",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 28,
+      "ImpactSpeed": 7.5847692,
+      "Timestamp": 1768773430,
+      "DriverName": "German Tarazona",
+      "Team": "AGUETA RACING",
+      "OtherDriverName": "Carlos Perez",
+      "OtherTeam": "Candemor Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 16,
+      "ImpactSpeed": 7.9753532,
+      "Timestamp": 1768773431,
+      "DriverName": "Carlos Perez",
+      "Team": "Candemor Racing Team",
+      "OtherDriverName": "German Tarazona",
+      "OtherTeam": "AGUETA RACING"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 8,
+      "ImpactSpeed": 6.76678,
+      "Timestamp": 1768773431,
+      "DriverName": "Samuel Navarro",
+      "Team": "",
+      "OtherDriverName": "German Tarazona",
+      "OtherTeam": "AGUETA RACING"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 17,
+      "ImpactSpeed": 22.451975,
+      "Timestamp": 1768773432,
+      "DriverName": "Miguel Mata",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "German Tarazona",
+      "OtherTeam": "AGUETA RACING"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 7,
+      "ImpactSpeed": 10.935809,
+      "Timestamp": 1768773433,
+      "DriverName": "Sergi Morera",
+      "Team": "Buhos Racing",
+      "OtherDriverName": "Alejandro Tomeno Calle",
+      "OtherTeam": "Calvos Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 7,
+      "ImpactSpeed": 8.934324,
+      "Timestamp": 1768773433,
+      "DriverName": "Sergi Morera",
+      "Team": "Buhos Racing",
+      "OtherDriverName": "Carlos Perez",
+      "OtherTeam": "Candemor Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 14,
+      "ImpactSpeed": 12.41095,
+      "Timestamp": 1768773433,
+      "DriverName": "Alejandro Tomeno Calle",
+      "Team": "Calvos Racing Team",
+      "OtherDriverName": "German Tarazona",
+      "OtherTeam": "AGUETA RACING"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 14,
+      "ImpactSpeed": 8.772025,
+      "Timestamp": 1768773433,
+      "DriverName": "Alejandro Tomeno Calle",
+      "Team": "Calvos Racing Team",
+      "OtherDriverName": "Sergi Morera",
+      "OtherTeam": "Buhos Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 28,
+      "ImpactSpeed": 5.3780966,
+      "Timestamp": 1768773435,
+      "DriverName": "German Tarazona",
+      "Team": "AGUETA RACING",
+      "OtherDriverName": "Samuel Navarro",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 28,
+      "ImpactSpeed": 14.0766,
+      "Timestamp": 1768773435,
+      "DriverName": "German Tarazona",
+      "Team": "AGUETA RACING",
+      "OtherDriverName": "Alejandro Tomeno Calle",
+      "OtherTeam": "Calvos Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 28,
+      "ImpactSpeed": 33.096478,
+      "Timestamp": 1768773435,
+      "DriverName": "German Tarazona",
+      "Team": "AGUETA RACING",
+      "OtherDriverName": "Miguel Mata",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 28,
+      "ImpactSpeed": 3.5616512,
+      "Timestamp": 1768773435,
+      "DriverName": "German Tarazona",
+      "Team": "AGUETA RACING",
+      "OtherDriverName": "Carlos Perez",
+      "OtherTeam": "Candemor Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 3,
+      "ImpactSpeed": 6.553966,
+      "Timestamp": 1768773435,
+      "DriverName": "Rafa Alvarez",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Akira",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 16,
+      "ImpactSpeed": 14.918138,
+      "Timestamp": 1768773436,
+      "DriverName": "Carlos Perez",
+      "Team": "Candemor Racing Team",
+      "OtherDriverName": "German Tarazona",
+      "OtherTeam": "AGUETA RACING"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 16,
+      "ImpactSpeed": 8.784346,
+      "Timestamp": 1768773436,
+      "DriverName": "Carlos Perez",
+      "Team": "Candemor Racing Team",
+      "OtherDriverName": "Sergi Morera",
+      "OtherTeam": "Buhos Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 17,
+      "ImpactSpeed": 1.4689761,
+      "Timestamp": 1768773437,
+      "DriverName": "Miguel Mata",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "Alejandro Tomeno Calle",
+      "OtherTeam": "Calvos Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 10,
+      "ImpactSpeed": 3.8898704,
+      "Timestamp": 1768773438,
+      "DriverName": "Daniel Barón",
+      "Team": "AuTornay Racing Team",
+      "OtherDriverName": "Jose Zurita Gómez",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 11,
+      "ImpactSpeed": 3.4524457,
+      "Timestamp": 1768773438,
+      "DriverName": "Jose Zurita Gómez",
+      "Team": "",
+      "OtherDriverName": "Daniel Barón",
+      "OtherTeam": "AuTornay Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 14,
+      "ImpactSpeed": 2.6023743,
+      "Timestamp": 1768773439,
+      "DriverName": "Alejandro Tomeno Calle",
+      "Team": "Calvos Racing Team",
+      "OtherDriverName": "Miguel Mata",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 10,
+      "ImpactSpeed": 2.4317951,
+      "Timestamp": 1768773443,
+      "DriverName": "Daniel Barón",
+      "Team": "AuTornay Racing Team",
+      "OtherDriverName": "Jose Zurita Gómez",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 17,
+      "ImpactSpeed": 4.3709035,
+      "Timestamp": 1768773452,
+      "DriverName": "Miguel Mata",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "German Tarazona",
+      "OtherTeam": "AGUETA RACING"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 10,
+      "ImpactSpeed": 13.912018,
+      "Timestamp": 1768773453,
+      "DriverName": "Daniel Barón",
+      "Team": "AuTornay Racing Team",
+      "OtherDriverName": "Sergio Diaz",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 10,
+      "ImpactSpeed": 13.042459,
+      "Timestamp": 1768773453,
+      "DriverName": "Daniel Barón",
+      "Team": "AuTornay Racing Team",
+      "OtherDriverName": "Jose Zurita Gómez",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 7,
+      "ImpactSpeed": 19.155691,
+      "Timestamp": 1768773453,
+      "DriverName": "Sergi Morera",
+      "Team": "Buhos Racing",
+      "OtherDriverName": "German Tarazona",
+      "OtherTeam": "AGUETA RACING"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 11,
+      "ImpactSpeed": 11.562056,
+      "Timestamp": 1768773453,
+      "DriverName": "Jose Zurita Gómez",
+      "Team": "",
+      "OtherDriverName": "Daniel Barón",
+      "OtherTeam": "AuTornay Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 28,
+      "ImpactSpeed": 8.667496,
+      "Timestamp": 1768773455,
+      "DriverName": "German Tarazona",
+      "Team": "AGUETA RACING",
+      "OtherDriverName": "Miguel Mata",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 28,
+      "ImpactSpeed": 4.286968,
+      "Timestamp": 1768773455,
+      "DriverName": "German Tarazona",
+      "Team": "AGUETA RACING",
+      "OtherDriverName": "Sergi Morera",
+      "OtherTeam": "Buhos Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 21,
+      "ImpactSpeed": 25.36148,
+      "Timestamp": 1768773455,
+      "DriverName": "Montoro",
+      "Team": "BMT Racing",
+      "OtherDriverName": "Sergio Diaz",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 9,
+      "ImpactSpeed": 15.232592,
+      "Timestamp": 1768773455,
+      "DriverName": "Sergio Diaz",
+      "Team": "",
+      "OtherDriverName": "Montoro",
+      "OtherTeam": "BMT Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 9,
+      "ImpactSpeed": 15.918796,
+      "Timestamp": 1768773455,
+      "DriverName": "Sergio Diaz",
+      "Team": "",
+      "OtherDriverName": "Daniel Barón",
+      "OtherTeam": "AuTornay Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 10,
+      "ImpactSpeed": 26.45841,
+      "Timestamp": 1768773458,
+      "DriverName": "Daniel Barón",
+      "Team": "AuTornay Racing Team",
+      "OtherDriverName": "Jose Zurita Gómez",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 11,
+      "ImpactSpeed": 32.03772,
+      "Timestamp": 1768773458,
+      "DriverName": "Jose Zurita Gómez",
+      "Team": "",
+      "OtherDriverName": "Daniel Barón",
+      "OtherTeam": "AuTornay Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_ENV",
+      "CarId": 11,
+      "ImpactSpeed": 31.04715,
+      "Timestamp": 1768773458,
+      "DriverName": "Jose Zurita Gómez",
+      "Team": "",
+      "OtherDriverName": "",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 27,
+      "ImpactSpeed": 13.472643,
+      "Timestamp": 1768773458,
+      "DriverName": "Cesar Sacedo",
+      "Team": "saoca team",
+      "OtherDriverName": "Daniel Zanotti",
+      "OtherTeam": "SBL TEAM"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 4,
+      "ImpactSpeed": 3.1370711,
+      "Timestamp": 1768773458,
+      "DriverName": "Daniel Zanotti",
+      "Team": "SBL TEAM",
+      "OtherDriverName": "Cesar Sacedo",
+      "OtherTeam": "saoca team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 14,
+      "ImpactSpeed": 0.024358641,
+      "Timestamp": 1768773459,
+      "DriverName": "Alejandro Tomeno Calle",
+      "Team": "Calvos Racing Team",
+      "OtherDriverName": "Daniel Inácio",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 23,
+      "ImpactSpeed": 1.6816291,
+      "Timestamp": 1768773460,
+      "DriverName": "Daniel Inácio",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "Alejandro Tomeno Calle",
+      "OtherTeam": "Calvos Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 21,
+      "ImpactSpeed": 10.194059,
+      "Timestamp": 1768773465,
+      "DriverName": "Montoro",
+      "Team": "BMT Racing",
+      "OtherDriverName": "Juan Carlos Ortega",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 15,
+      "ImpactSpeed": 3.7894652,
+      "Timestamp": 1768773466,
+      "DriverName": "Juan Carlos Ortega",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Montoro",
+      "OtherTeam": "BMT Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 10,
+      "ImpactSpeed": 6.320765,
+      "Timestamp": 1768773468,
+      "DriverName": "Daniel Barón",
+      "Team": "AuTornay Racing Team",
+      "OtherDriverName": "Daniel Zanotti",
+      "OtherTeam": "SBL TEAM"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 23,
+      "ImpactSpeed": 5.2966895,
+      "Timestamp": 1768773470,
+      "DriverName": "Daniel Inácio",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "Alejandro Tomeno Calle",
+      "OtherTeam": "Calvos Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 0,
+      "ImpactSpeed": 4.0837073,
+      "Timestamp": 1768773470,
+      "DriverName": "Francisco Jose Perez Paredes",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Miguel Pimenta",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 21,
+      "ImpactSpeed": 9.6491165,
+      "Timestamp": 1768773470,
+      "DriverName": "Montoro",
+      "Team": "BMT Racing",
+      "OtherDriverName": "Juan Carlos Ortega",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 15,
+      "ImpactSpeed": 5.1561027,
+      "Timestamp": 1768773471,
+      "DriverName": "Juan Carlos Ortega",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Miguel Pimenta",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 15,
+      "ImpactSpeed": 9.937885,
+      "Timestamp": 1768773471,
+      "DriverName": "Juan Carlos Ortega",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Montoro",
+      "OtherTeam": "BMT Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 13,
+      "ImpactSpeed": 6.322152,
+      "Timestamp": 1768773471,
+      "DriverName": "Miguel Pimenta",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "Juan Carlos Ortega",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 13,
+      "ImpactSpeed": 2.4924023,
+      "Timestamp": 1768773471,
+      "DriverName": "Miguel Pimenta",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "Francisco Jose Perez Paredes",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 29,
+      "ImpactSpeed": 16.428707,
+      "Timestamp": 1768773473,
+      "DriverName": "Diogo Marques",
+      "Team": "",
+      "OtherDriverName": "Fernando Velarde López",
+      "OtherTeam": "Candemor Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 6,
+      "ImpactSpeed": 10.438581,
+      "Timestamp": 1768773473,
+      "DriverName": "Fernando Velarde López",
+      "Team": "Candemor Racing Team",
+      "OtherDriverName": "Diogo Marques",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 4,
+      "ImpactSpeed": 19.029844,
+      "Timestamp": 1768773473,
+      "DriverName": "Daniel Zanotti",
+      "Team": "SBL TEAM",
+      "OtherDriverName": "Cesar Sacedo",
+      "OtherTeam": "saoca team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 14,
+      "ImpactSpeed": 11.308919,
+      "Timestamp": 1768773473,
+      "DriverName": "Alejandro Tomeno Calle",
+      "Team": "Calvos Racing Team",
+      "OtherDriverName": "Daniel Inácio",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 0,
+      "ImpactSpeed": 13.830552,
+      "Timestamp": 1768773475,
+      "DriverName": "Francisco Jose Perez Paredes",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Juan Carlos Ortega",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 15,
+      "ImpactSpeed": 6.415808,
+      "Timestamp": 1768773476,
+      "DriverName": "Juan Carlos Ortega",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Francisco Jose Perez Paredes",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 4,
+      "ImpactSpeed": 9.248472,
+      "Timestamp": 1768773478,
+      "DriverName": "Daniel Zanotti",
+      "Team": "SBL TEAM",
+      "OtherDriverName": "Cesar Sacedo",
+      "OtherTeam": "saoca team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 27,
+      "ImpactSpeed": 8.012069,
+      "Timestamp": 1768773478,
+      "DriverName": "Cesar Sacedo",
+      "Team": "saoca team",
+      "OtherDriverName": "Daniel Zanotti",
+      "OtherTeam": "SBL TEAM"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 3,
+      "ImpactSpeed": 11.554511,
+      "Timestamp": 1768773485,
+      "DriverName": "Rafa Alvarez",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Juan Carlos Ortega",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 15,
+      "ImpactSpeed": 12.974362,
+      "Timestamp": 1768773486,
+      "DriverName": "Juan Carlos Ortega",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Rafa Alvarez",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 9,
+      "ImpactSpeed": 5.763619,
+      "Timestamp": 1768773495,
+      "DriverName": "Sergio Diaz",
+      "Team": "",
+      "OtherDriverName": "Daniel Barón",
+      "OtherTeam": "AuTornay Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 10,
+      "ImpactSpeed": 15.277093,
+      "Timestamp": 1768773498,
+      "DriverName": "Daniel Barón",
+      "Team": "AuTornay Racing Team",
+      "OtherDriverName": "Sergio Diaz",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 4,
+      "ImpactSpeed": 25.563374,
+      "Timestamp": 1768773498,
+      "DriverName": "Daniel Zanotti",
+      "Team": "SBL TEAM",
+      "OtherDriverName": "Cesar Sacedo",
+      "OtherTeam": "saoca team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 27,
+      "ImpactSpeed": 5.937504,
+      "Timestamp": 1768773498,
+      "DriverName": "Cesar Sacedo",
+      "Team": "saoca team",
+      "OtherDriverName": "Daniel Zanotti",
+      "OtherTeam": "SBL TEAM"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 9,
+      "ImpactSpeed": 16.153175,
+      "Timestamp": 1768773500,
+      "DriverName": "Sergio Diaz",
+      "Team": "",
+      "OtherDriverName": "Miguel Pimenta",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 9,
+      "ImpactSpeed": 9.962385,
+      "Timestamp": 1768773500,
+      "DriverName": "Sergio Diaz",
+      "Team": "",
+      "OtherDriverName": "Daniel Barón",
+      "OtherTeam": "AuTornay Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 13,
+      "ImpactSpeed": 5.39091,
+      "Timestamp": 1768773501,
+      "DriverName": "Miguel Pimenta",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "Sergio Diaz",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 7,
+      "ImpactSpeed": 10.004367,
+      "Timestamp": 1768773508,
+      "DriverName": "Sergi Morera",
+      "Team": "Buhos Racing",
+      "OtherDriverName": "Miguel Mata",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 17,
+      "ImpactSpeed": 5.4900994,
+      "Timestamp": 1768773512,
+      "DriverName": "Miguel Mata",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "Sergi Morera",
+      "OtherTeam": "Buhos Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 29,
+      "ImpactSpeed": 7.6749544,
+      "Timestamp": 1768773513,
+      "DriverName": "Diogo Marques",
+      "Team": "",
+      "OtherDriverName": "Fernando Velarde López",
+      "OtherTeam": "Candemor Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 7,
+      "ImpactSpeed": 2.7260659,
+      "Timestamp": 1768773513,
+      "DriverName": "Sergi Morera",
+      "Team": "Buhos Racing",
+      "OtherDriverName": "Miguel Mata",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 6,
+      "ImpactSpeed": 5.4829955,
+      "Timestamp": 1768773513,
+      "DriverName": "Fernando Velarde López",
+      "Team": "Candemor Racing Team",
+      "OtherDriverName": "Diogo Marques",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 7,
+      "ImpactSpeed": 8.938341,
+      "Timestamp": 1768773518,
+      "DriverName": "Sergi Morera",
+      "Team": "Buhos Racing",
+      "OtherDriverName": "Miguel Mata",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_ENV",
+      "CarId": 6,
+      "ImpactSpeed": 36.806595,
+      "Timestamp": 1768773518,
+      "DriverName": "Fernando Velarde López",
+      "Team": "Candemor Racing Team",
+      "OtherDriverName": "",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 17,
+      "ImpactSpeed": 5.2642055,
+      "Timestamp": 1768773522,
+      "DriverName": "Miguel Mata",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "Sergi Morera",
+      "OtherTeam": "Buhos Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 7,
+      "ImpactSpeed": 2.2252877,
+      "Timestamp": 1768773523,
+      "DriverName": "Sergi Morera",
+      "Team": "Buhos Racing",
+      "OtherDriverName": "Miguel Mata",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 21,
+      "ImpactSpeed": 2.2595172,
+      "Timestamp": 1768773530,
+      "DriverName": "Montoro",
+      "Team": "BMT Racing",
+      "OtherDriverName": "Francisco Jose Perez Paredes",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 0,
+      "ImpactSpeed": 10.29895,
+      "Timestamp": 1768773530,
+      "DriverName": "Francisco Jose Perez Paredes",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Montoro",
+      "OtherTeam": "BMT Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 0,
+      "ImpactSpeed": 4.142177,
+      "Timestamp": 1768773535,
+      "DriverName": "Francisco Jose Perez Paredes",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Montoro",
+      "OtherTeam": "BMT Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 21,
+      "ImpactSpeed": 2.9766626,
+      "Timestamp": 1768773535,
+      "DriverName": "Montoro",
+      "Team": "BMT Racing",
+      "OtherDriverName": "Francisco Jose Perez Paredes",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 29,
+      "ImpactSpeed": 0.39097664,
+      "Timestamp": 1768773553,
+      "DriverName": "Diogo Marques",
+      "Team": "",
+      "OtherDriverName": "Samuel Navarro",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 0,
+      "ImpactSpeed": 21.790499,
+      "Timestamp": 1768773555,
+      "DriverName": "Francisco Jose Perez Paredes",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Montoro",
+      "OtherTeam": "BMT Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 0,
+      "ImpactSpeed": 7.268486,
+      "Timestamp": 1768773555,
+      "DriverName": "Francisco Jose Perez Paredes",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Fernando Velarde López",
+      "OtherTeam": "Candemor Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 6,
+      "ImpactSpeed": 5.599127,
+      "Timestamp": 1768773558,
+      "DriverName": "Fernando Velarde López",
+      "Team": "Candemor Racing Team",
+      "OtherDriverName": "Francisco Jose Perez Paredes",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 21,
+      "ImpactSpeed": 1.5340428,
+      "Timestamp": 1768773560,
+      "DriverName": "Montoro",
+      "Team": "BMT Racing",
+      "OtherDriverName": "Francisco Jose Perez Paredes",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 6,
+      "ImpactSpeed": 3.077476,
+      "Timestamp": 1768773563,
+      "DriverName": "Fernando Velarde López",
+      "Team": "Candemor Racing Team",
+      "OtherDriverName": "Francisco Jose Perez Paredes",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 21,
+      "ImpactSpeed": 6.7765183,
+      "Timestamp": 1768773565,
+      "DriverName": "Montoro",
+      "Team": "BMT Racing",
+      "OtherDriverName": "Francisco Jose Perez Paredes",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 0,
+      "ImpactSpeed": 13.155442,
+      "Timestamp": 1768773565,
+      "DriverName": "Francisco Jose Perez Paredes",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Fernando Velarde López",
+      "OtherTeam": "Candemor Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 0,
+      "ImpactSpeed": 9.20591,
+      "Timestamp": 1768773565,
+      "DriverName": "Francisco Jose Perez Paredes",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Montoro",
+      "OtherTeam": "BMT Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 5,
+      "ImpactSpeed": 1.8872842,
+      "Timestamp": 1768773568,
+      "DriverName": "Frederico Sampaio",
+      "Team": "Galgo Motorsport",
+      "OtherDriverName": "Daniel Barón",
+      "OtherTeam": "AuTornay Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 10,
+      "ImpactSpeed": 7.07305,
+      "Timestamp": 1768773568,
+      "DriverName": "Daniel Barón",
+      "Team": "AuTornay Racing Team",
+      "OtherDriverName": "Frederico Sampaio",
+      "OtherTeam": "Galgo Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 6,
+      "ImpactSpeed": 10.980946,
+      "Timestamp": 1768773568,
+      "DriverName": "Fernando Velarde López",
+      "Team": "Candemor Racing Team",
+      "OtherDriverName": "Francisco Jose Perez Paredes",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 21,
+      "ImpactSpeed": 8.835833,
+      "Timestamp": 1768773600,
+      "DriverName": "Montoro",
+      "Team": "BMT Racing",
+      "OtherDriverName": "Daniel Barón",
+      "OtherTeam": "AuTornay Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 10,
+      "ImpactSpeed": 2.7786326,
+      "Timestamp": 1768773603,
+      "DriverName": "Daniel Barón",
+      "Team": "AuTornay Racing Team",
+      "OtherDriverName": "Montoro",
+      "OtherTeam": "BMT Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 21,
+      "ImpactSpeed": 2.7951398,
+      "Timestamp": 1768773605,
+      "DriverName": "Montoro",
+      "Team": "BMT Racing",
+      "OtherDriverName": "Francisco Jose Perez Paredes",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 0,
+      "ImpactSpeed": 2.6150794,
+      "Timestamp": 1768773606,
+      "DriverName": "Francisco Jose Perez Paredes",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Montoro",
+      "OtherTeam": "BMT Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 0,
+      "ImpactSpeed": 13.970714,
+      "Timestamp": 1768773616,
+      "DriverName": "Francisco Jose Perez Paredes",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Montoro",
+      "OtherTeam": "BMT Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 21,
+      "ImpactSpeed": 9.326173,
+      "Timestamp": 1768773616,
+      "DriverName": "Montoro",
+      "Team": "BMT Racing",
+      "OtherDriverName": "Francisco Jose Perez Paredes",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 21,
+      "ImpactSpeed": 18.250069,
+      "Timestamp": 1768773625,
+      "DriverName": "Montoro",
+      "Team": "BMT Racing",
+      "OtherDriverName": "Frederico Sampaio",
+      "OtherTeam": "Galgo Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 5,
+      "ImpactSpeed": 9.71311,
+      "Timestamp": 1768773628,
+      "DriverName": "Frederico Sampaio",
+      "Team": "Galgo Motorsport",
+      "OtherDriverName": "Montoro",
+      "OtherTeam": "BMT Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 0,
+      "ImpactSpeed": 3.7488973,
+      "Timestamp": 1768773631,
+      "DriverName": "Francisco Jose Perez Paredes",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Frederico Sampaio",
+      "OtherTeam": "Galgo Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 5,
+      "ImpactSpeed": 4.592498,
+      "Timestamp": 1768773633,
+      "DriverName": "Frederico Sampaio",
+      "Team": "Galgo Motorsport",
+      "OtherDriverName": "Francisco Jose Perez Paredes",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 5,
+      "ImpactSpeed": 4.658458,
+      "Timestamp": 1768773638,
+      "DriverName": "Frederico Sampaio",
+      "Team": "Galgo Motorsport",
+      "OtherDriverName": "Francisco Jose Perez Paredes",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 0,
+      "ImpactSpeed": 4.7077994,
+      "Timestamp": 1768773641,
+      "DriverName": "Francisco Jose Perez Paredes",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Frederico Sampaio",
+      "OtherTeam": "Galgo Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 26,
+      "ImpactSpeed": 21.820522,
+      "Timestamp": 1768773646,
+      "DriverName": "Jose Miguel Romay",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Ezequiel Cherminando",
+      "OtherTeam": "Team Chermi"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 20,
+      "ImpactSpeed": 14.302675,
+      "Timestamp": 1768773646,
+      "DriverName": "Ezequiel Cherminando",
+      "Team": "Team Chermi",
+      "OtherDriverName": "Miguel Mata",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 20,
+      "ImpactSpeed": 22.418087,
+      "Timestamp": 1768773646,
+      "DriverName": "Ezequiel Cherminando",
+      "Team": "Team Chermi",
+      "OtherDriverName": "Jose Miguel Romay",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 17,
+      "ImpactSpeed": 17.04767,
+      "Timestamp": 1768773647,
+      "DriverName": "Miguel Mata",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "Ezequiel Cherminando",
+      "OtherTeam": "Team Chermi"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 28,
+      "ImpactSpeed": 2.875533,
+      "Timestamp": 1768773650,
+      "DriverName": "German Tarazona",
+      "Team": "AGUETA RACING",
+      "OtherDriverName": "Carlos Perez",
+      "OtherTeam": "Candemor Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 16,
+      "ImpactSpeed": 2.081459,
+      "Timestamp": 1768773651,
+      "DriverName": "Carlos Perez",
+      "Team": "Candemor Racing Team",
+      "OtherDriverName": "German Tarazona",
+      "OtherTeam": "AGUETA RACING"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 7,
+      "ImpactSpeed": 20.441423,
+      "Timestamp": 1768773673,
+      "DriverName": "Sergi Morera",
+      "Team": "Buhos Racing",
+      "OtherDriverName": "Carlos Perez",
+      "OtherTeam": "Candemor Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 28,
+      "ImpactSpeed": 8.142115,
+      "Timestamp": 1768773675,
+      "DriverName": "German Tarazona",
+      "Team": "AGUETA RACING",
+      "OtherDriverName": "Diogo Marques",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 16,
+      "ImpactSpeed": 0.3572882,
+      "Timestamp": 1768773676,
+      "DriverName": "Carlos Perez",
+      "Team": "Candemor Racing Team",
+      "OtherDriverName": "Sergi Morera",
+      "OtherTeam": "Buhos Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 29,
+      "ImpactSpeed": 13.313229,
+      "Timestamp": 1768773678,
+      "DriverName": "Diogo Marques",
+      "Team": "",
+      "OtherDriverName": "German Tarazona",
+      "OtherTeam": "AGUETA RACING"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 11,
+      "ImpactSpeed": 2.1081953,
+      "Timestamp": 1768773678,
+      "DriverName": "Jose Zurita Gómez",
+      "Team": "",
+      "OtherDriverName": "enzo diaz cancho",
+      "OtherTeam": "full racing canary team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 22,
+      "ImpactSpeed": 7.188128,
+      "Timestamp": 1768773680,
+      "DriverName": "enzo diaz cancho",
+      "Team": "full racing canary team",
+      "OtherDriverName": "Jose Zurita Gómez",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 7,
+      "ImpactSpeed": 9.382205,
+      "Timestamp": 1768773688,
+      "DriverName": "Sergi Morera",
+      "Team": "Buhos Racing",
+      "OtherDriverName": "German Tarazona",
+      "OtherTeam": "AGUETA RACING"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 28,
+      "ImpactSpeed": 4.215371,
+      "Timestamp": 1768773690,
+      "DriverName": "German Tarazona",
+      "Team": "AGUETA RACING",
+      "OtherDriverName": "Sergi Morera",
+      "OtherTeam": "Buhos Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 29,
+      "ImpactSpeed": 1.4224513,
+      "Timestamp": 1768773698,
+      "DriverName": "Diogo Marques",
+      "Team": "",
+      "OtherDriverName": "Sergi Morera",
+      "OtherTeam": "Buhos Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 7,
+      "ImpactSpeed": 9.870635,
+      "Timestamp": 1768773698,
+      "DriverName": "Sergi Morera",
+      "Team": "Buhos Racing",
+      "OtherDriverName": "Diogo Marques",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 9,
+      "ImpactSpeed": 3.4754066,
+      "Timestamp": 1768773701,
+      "DriverName": "Sergio Diaz",
+      "Team": "",
+      "OtherDriverName": "Juan Carlos Ortega",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 16,
+      "ImpactSpeed": 3.0312476,
+      "Timestamp": 1768773701,
+      "DriverName": "Carlos Perez",
+      "Team": "Candemor Racing Team",
+      "OtherDriverName": "German Tarazona",
+      "OtherTeam": "AGUETA RACING"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 15,
+      "ImpactSpeed": 4.7651334,
+      "Timestamp": 1768773701,
+      "DriverName": "Juan Carlos Ortega",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Sergio Diaz",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 28,
+      "ImpactSpeed": 8.369876,
+      "Timestamp": 1768773705,
+      "DriverName": "German Tarazona",
+      "Team": "AGUETA RACING",
+      "OtherDriverName": "Carlos Perez",
+      "OtherTeam": "Candemor Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 14,
+      "ImpactSpeed": 3.2111108,
+      "Timestamp": 1768773709,
+      "DriverName": "Alejandro Tomeno Calle",
+      "Team": "Calvos Racing Team",
+      "OtherDriverName": "Carlos Perez",
+      "OtherTeam": "Candemor Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 16,
+      "ImpactSpeed": 2.510603,
+      "Timestamp": 1768773711,
+      "DriverName": "Carlos Perez",
+      "Team": "Candemor Racing Team",
+      "OtherDriverName": "Alejandro Tomeno Calle",
+      "OtherTeam": "Calvos Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 14,
+      "ImpactSpeed": 3.8150156,
+      "Timestamp": 1768773714,
+      "DriverName": "Alejandro Tomeno Calle",
+      "Team": "Calvos Racing Team",
+      "OtherDriverName": "Carlos Perez",
+      "OtherTeam": "Candemor Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 16,
+      "ImpactSpeed": 9.17193,
+      "Timestamp": 1768773716,
+      "DriverName": "Carlos Perez",
+      "Team": "Candemor Racing Team",
+      "OtherDriverName": "Alejandro Tomeno Calle",
+      "OtherTeam": "Calvos Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 7,
+      "ImpactSpeed": 6.9521613,
+      "Timestamp": 1768773723,
+      "DriverName": "Sergi Morera",
+      "Team": "Buhos Racing",
+      "OtherDriverName": "Diogo Marques",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 28,
+      "ImpactSpeed": 13.454665,
+      "Timestamp": 1768773735,
+      "DriverName": "German Tarazona",
+      "Team": "AGUETA RACING",
+      "OtherDriverName": "Alejandro Tomeno Calle",
+      "OtherTeam": "Calvos Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 14,
+      "ImpactSpeed": 9.055074,
+      "Timestamp": 1768773739,
+      "DriverName": "Alejandro Tomeno Calle",
+      "Team": "Calvos Racing Team",
+      "OtherDriverName": "German Tarazona",
+      "OtherTeam": "AGUETA RACING"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 11,
+      "ImpactSpeed": 3.1416705,
+      "Timestamp": 1768773753,
+      "DriverName": "Jose Zurita Gómez",
+      "Team": "",
+      "OtherDriverName": "enzo diaz cancho",
+      "OtherTeam": "full racing canary team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 22,
+      "ImpactSpeed": 9.897945,
+      "Timestamp": 1768773755,
+      "DriverName": "enzo diaz cancho",
+      "Team": "full racing canary team",
+      "OtherDriverName": "Jose Zurita Gómez",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 11,
+      "ImpactSpeed": 6.0636125,
+      "Timestamp": 1768773758,
+      "DriverName": "Jose Zurita Gómez",
+      "Team": "",
+      "OtherDriverName": "enzo diaz cancho",
+      "OtherTeam": "full racing canary team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 22,
+      "ImpactSpeed": 11.418984,
+      "Timestamp": 1768773760,
+      "DriverName": "enzo diaz cancho",
+      "Team": "full racing canary team",
+      "OtherDriverName": "Jose Zurita Gómez",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 3,
+      "ImpactSpeed": 10.837797,
+      "Timestamp": 1768773760,
+      "DriverName": "Rafa Alvarez",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Juan Carlos Ortega",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 15,
+      "ImpactSpeed": 11.98789,
+      "Timestamp": 1768773761,
+      "DriverName": "Juan Carlos Ortega",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Rafa Alvarez",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 29,
+      "ImpactSpeed": 13.000571,
+      "Timestamp": 1768773763,
+      "DriverName": "Diogo Marques",
+      "Team": "",
+      "OtherDriverName": "German Tarazona",
+      "OtherTeam": "AGUETA RACING"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 28,
+      "ImpactSpeed": 8.034151,
+      "Timestamp": 1768773765,
+      "DriverName": "German Tarazona",
+      "Team": "AGUETA RACING",
+      "OtherDriverName": "Diogo Marques",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 13,
+      "ImpactSpeed": 2.1807163,
+      "Timestamp": 1768773766,
+      "DriverName": "Miguel Pimenta",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "Fernando Velarde López",
+      "OtherTeam": "Candemor Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 6,
+      "ImpactSpeed": 2.9307263,
+      "Timestamp": 1768773768,
+      "DriverName": "Fernando Velarde López",
+      "Team": "Candemor Racing Team",
+      "OtherDriverName": "Miguel Pimenta",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 11,
+      "ImpactSpeed": 5.4854565,
+      "Timestamp": 1768773788,
+      "DriverName": "Jose Zurita Gómez",
+      "Team": "",
+      "OtherDriverName": "enzo diaz cancho",
+      "OtherTeam": "full racing canary team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 22,
+      "ImpactSpeed": 7.2499566,
+      "Timestamp": 1768773790,
+      "DriverName": "enzo diaz cancho",
+      "Team": "full racing canary team",
+      "OtherDriverName": "Jose Zurita Gómez",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 14,
+      "ImpactSpeed": 18.649668,
+      "Timestamp": 1768773799,
+      "DriverName": "Alejandro Tomeno Calle",
+      "Team": "Calvos Racing Team",
+      "OtherDriverName": "Daniel Inácio",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 23,
+      "ImpactSpeed": 15.087645,
+      "Timestamp": 1768773800,
+      "DriverName": "Daniel Inácio",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "Alejandro Tomeno Calle",
+      "OtherTeam": "Calvos Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 9,
+      "ImpactSpeed": 3.055622,
+      "Timestamp": 1768773801,
+      "DriverName": "Sergio Diaz",
+      "Team": "",
+      "OtherDriverName": "Juan Carlos Ortega",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 15,
+      "ImpactSpeed": 2.2343953,
+      "Timestamp": 1768773801,
+      "DriverName": "Juan Carlos Ortega",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Sergio Diaz",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 4,
+      "ImpactSpeed": 15.370405,
+      "Timestamp": 1768773803,
+      "DriverName": "Daniel Zanotti",
+      "Team": "SBL TEAM",
+      "OtherDriverName": "Ezequiel Cherminando",
+      "OtherTeam": "Team Chermi"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 25,
+      "ImpactSpeed": 5.096332,
+      "Timestamp": 1768773806,
+      "DriverName": "José Almeida",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "Samuel Navarro",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 8,
+      "ImpactSpeed": 3.7188122,
+      "Timestamp": 1768773806,
+      "DriverName": "Samuel Navarro",
+      "Team": "",
+      "OtherDriverName": "José Almeida",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 25,
+      "ImpactSpeed": 3.9445457,
+      "Timestamp": 1768773821,
+      "DriverName": "José Almeida",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "Samuel Navarro",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 8,
+      "ImpactSpeed": 14.52175,
+      "Timestamp": 1768773821,
+      "DriverName": "Samuel Navarro",
+      "Team": "",
+      "OtherDriverName": "José Almeida",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 20,
+      "ImpactSpeed": 3.9251025,
+      "Timestamp": 1768773831,
+      "DriverName": "Ezequiel Cherminando",
+      "Team": "Team Chermi",
+      "OtherDriverName": "Daniel Zanotti",
+      "OtherTeam": "SBL TEAM"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 4,
+      "ImpactSpeed": 18.05276,
+      "Timestamp": 1768773833,
+      "DriverName": "Daniel Zanotti",
+      "Team": "SBL TEAM",
+      "OtherDriverName": "Ezequiel Cherminando",
+      "OtherTeam": "Team Chermi"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 20,
+      "ImpactSpeed": 4.5479383,
+      "Timestamp": 1768773836,
+      "DriverName": "Ezequiel Cherminando",
+      "Team": "Team Chermi",
+      "OtherDriverName": "Daniel Zanotti",
+      "OtherTeam": "SBL TEAM"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 4,
+      "ImpactSpeed": 4.169811,
+      "Timestamp": 1768773838,
+      "DriverName": "Daniel Zanotti",
+      "Team": "SBL TEAM",
+      "OtherDriverName": "Ezequiel Cherminando",
+      "OtherTeam": "Team Chermi"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 20,
+      "ImpactSpeed": 3.9274032,
+      "Timestamp": 1768773841,
+      "DriverName": "Ezequiel Cherminando",
+      "Team": "Team Chermi",
+      "OtherDriverName": "Daniel Zanotti",
+      "OtherTeam": "SBL TEAM"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 6,
+      "ImpactSpeed": 2.7415786,
+      "Timestamp": 1768773848,
+      "DriverName": "Fernando Velarde López",
+      "Team": "Candemor Racing Team",
+      "OtherDriverName": "Cesar Sacedo",
+      "OtherTeam": "saoca team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 4,
+      "ImpactSpeed": 19.035738,
+      "Timestamp": 1768773848,
+      "DriverName": "Daniel Zanotti",
+      "Team": "SBL TEAM",
+      "OtherDriverName": "Ezequiel Cherminando",
+      "OtherTeam": "Team Chermi"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 27,
+      "ImpactSpeed": 11.340072,
+      "Timestamp": 1768773849,
+      "DriverName": "Cesar Sacedo",
+      "Team": "saoca team",
+      "OtherDriverName": "Fernando Velarde López",
+      "OtherTeam": "Candemor Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 8,
+      "ImpactSpeed": 9.138085,
+      "Timestamp": 1768773851,
+      "DriverName": "Samuel Navarro",
+      "Team": "",
+      "OtherDriverName": "José Almeida",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 25,
+      "ImpactSpeed": 0.6718146,
+      "Timestamp": 1768773856,
+      "DriverName": "José Almeida",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "Samuel Navarro",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 22,
+      "ImpactSpeed": 8.609948,
+      "Timestamp": 1768773875,
+      "DriverName": "enzo diaz cancho",
+      "Team": "full racing canary team",
+      "OtherDriverName": "Juan Carlos Ortega",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 15,
+      "ImpactSpeed": 7.3938193,
+      "Timestamp": 1768773876,
+      "DriverName": "Juan Carlos Ortega",
+      "Team": "LOA Racing",
+      "OtherDriverName": "enzo diaz cancho",
+      "OtherTeam": "full racing canary team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 22,
+      "ImpactSpeed": 4.2963004,
+      "Timestamp": 1768773880,
+      "DriverName": "enzo diaz cancho",
+      "Team": "full racing canary team",
+      "OtherDriverName": "Juan Carlos Ortega",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 3,
+      "ImpactSpeed": 15.512878,
+      "Timestamp": 1768773880,
+      "DriverName": "Rafa Alvarez",
+      "Team": "LOA Racing",
+      "OtherDriverName": "enzo diaz cancho",
+      "OtherTeam": "full racing canary team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 22,
+      "ImpactSpeed": 19.00242,
+      "Timestamp": 1768773885,
+      "DriverName": "enzo diaz cancho",
+      "Team": "full racing canary team",
+      "OtherDriverName": "Rafa Alvarez",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 22,
+      "ImpactSpeed": 14.72695,
+      "Timestamp": 1768773885,
+      "DriverName": "enzo diaz cancho",
+      "Team": "full racing canary team",
+      "OtherDriverName": "Juan Carlos Ortega",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 3,
+      "ImpactSpeed": 13.731437,
+      "Timestamp": 1768773885,
+      "DriverName": "Rafa Alvarez",
+      "Team": "LOA Racing",
+      "OtherDriverName": "enzo diaz cancho",
+      "OtherTeam": "full racing canary team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 15,
+      "ImpactSpeed": 14.193247,
+      "Timestamp": 1768773886,
+      "DriverName": "Juan Carlos Ortega",
+      "Team": "LOA Racing",
+      "OtherDriverName": "enzo diaz cancho",
+      "OtherTeam": "full racing canary team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 21,
+      "ImpactSpeed": 7.3091617,
+      "Timestamp": 1768773891,
+      "DriverName": "Montoro",
+      "Team": "BMT Racing",
+      "OtherDriverName": "Daniel Barón",
+      "OtherTeam": "AuTornay Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 10,
+      "ImpactSpeed": 10.103247,
+      "Timestamp": 1768773893,
+      "DriverName": "Daniel Barón",
+      "Team": "AuTornay Racing Team",
+      "OtherDriverName": "Montoro",
+      "OtherTeam": "BMT Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 6,
+      "ImpactSpeed": 8.233657,
+      "Timestamp": 1768773893,
+      "DriverName": "Fernando Velarde López",
+      "Team": "Candemor Racing Team",
+      "OtherDriverName": "Cesar Sacedo",
+      "OtherTeam": "saoca team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 27,
+      "ImpactSpeed": 9.308427,
+      "Timestamp": 1768773894,
+      "DriverName": "Cesar Sacedo",
+      "Team": "saoca team",
+      "OtherDriverName": "Fernando Velarde López",
+      "OtherTeam": "Candemor Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 6,
+      "ImpactSpeed": 1.752437,
+      "Timestamp": 1768773903,
+      "DriverName": "Fernando Velarde López",
+      "Team": "Candemor Racing Team",
+      "OtherDriverName": "Cesar Sacedo",
+      "OtherTeam": "saoca team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 27,
+      "ImpactSpeed": 0.7607369,
+      "Timestamp": 1768773904,
+      "DriverName": "Cesar Sacedo",
+      "Team": "saoca team",
+      "OtherDriverName": "Fernando Velarde López",
+      "OtherTeam": "Candemor Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 3,
+      "ImpactSpeed": 9.120171,
+      "Timestamp": 1768773915,
+      "DriverName": "Rafa Alvarez",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Sergio Diaz",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 3,
+      "ImpactSpeed": 25.435907,
+      "Timestamp": 1768773915,
+      "DriverName": "Rafa Alvarez",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Juan Carlos Ortega",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 9,
+      "ImpactSpeed": 14.118399,
+      "Timestamp": 1768773916,
+      "DriverName": "Sergio Diaz",
+      "Team": "",
+      "OtherDriverName": "Rafa Alvarez",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 15,
+      "ImpactSpeed": 31.076263,
+      "Timestamp": 1768773916,
+      "DriverName": "Juan Carlos Ortega",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Rafa Alvarez",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 6,
+      "ImpactSpeed": 6.306449,
+      "Timestamp": 1768773928,
+      "DriverName": "Fernando Velarde López",
+      "Team": "Candemor Racing Team",
+      "OtherDriverName": "Cesar Sacedo",
+      "OtherTeam": "saoca team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 27,
+      "ImpactSpeed": 10.815034,
+      "Timestamp": 1768773929,
+      "DriverName": "Cesar Sacedo",
+      "Team": "saoca team",
+      "OtherDriverName": "Fernando Velarde López",
+      "OtherTeam": "Candemor Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 13,
+      "ImpactSpeed": 9.620051,
+      "Timestamp": 1768773971,
+      "DriverName": "Miguel Pimenta",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "Daniel Barón",
+      "OtherTeam": "AuTornay Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 10,
+      "ImpactSpeed": 4.740918,
+      "Timestamp": 1768773973,
+      "DriverName": "Daniel Barón",
+      "Team": "AuTornay Racing Team",
+      "OtherDriverName": "Miguel Pimenta",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 13,
+      "ImpactSpeed": 11.206854,
+      "Timestamp": 1768773976,
+      "DriverName": "Miguel Pimenta",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "Daniel Barón",
+      "OtherTeam": "AuTornay Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 13,
+      "ImpactSpeed": 8.347723,
+      "Timestamp": 1768774016,
+      "DriverName": "Miguel Pimenta",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "Daniel Barón",
+      "OtherTeam": "AuTornay Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 10,
+      "ImpactSpeed": 12.728552,
+      "Timestamp": 1768774018,
+      "DriverName": "Daniel Barón",
+      "Team": "AuTornay Racing Team",
+      "OtherDriverName": "Miguel Pimenta",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 9,
+      "ImpactSpeed": 2.2418058,
+      "Timestamp": 1768774031,
+      "DriverName": "Sergio Diaz",
+      "Team": "",
+      "OtherDriverName": "Juan Carlos Ortega",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 15,
+      "ImpactSpeed": 2.1989942,
+      "Timestamp": 1768774031,
+      "DriverName": "Juan Carlos Ortega",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Sergio Diaz",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 22,
+      "ImpactSpeed": 7.8498,
+      "Timestamp": 1768774060,
+      "DriverName": "enzo diaz cancho",
+      "Team": "full racing canary team",
+      "OtherDriverName": "Sergio Diaz",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 9,
+      "ImpactSpeed": 6.21819,
+      "Timestamp": 1768774061,
+      "DriverName": "Sergio Diaz",
+      "Team": "",
+      "OtherDriverName": "enzo diaz cancho",
+      "OtherTeam": "full racing canary team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 22,
+      "ImpactSpeed": 8.84079,
+      "Timestamp": 1768774065,
+      "DriverName": "enzo diaz cancho",
+      "Team": "full racing canary team",
+      "OtherDriverName": "Juan Carlos Ortega",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 9,
+      "ImpactSpeed": 10.751284,
+      "Timestamp": 1768774066,
+      "DriverName": "Sergio Diaz",
+      "Team": "",
+      "OtherDriverName": "Juan Carlos Ortega",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 15,
+      "ImpactSpeed": 5.9383926,
+      "Timestamp": 1768774066,
+      "DriverName": "Juan Carlos Ortega",
+      "Team": "LOA Racing",
+      "OtherDriverName": "enzo diaz cancho",
+      "OtherTeam": "full racing canary team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 15,
+      "ImpactSpeed": 8.947024,
+      "Timestamp": 1768774066,
+      "DriverName": "Juan Carlos Ortega",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Sergio Diaz",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 22,
+      "ImpactSpeed": 4.6345916,
+      "Timestamp": 1768774070,
+      "DriverName": "enzo diaz cancho",
+      "Team": "full racing canary team",
+      "OtherDriverName": "Juan Carlos Ortega",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 6,
+      "ImpactSpeed": 3.4387023,
+      "Timestamp": 1768774088,
+      "DriverName": "Fernando Velarde López",
+      "Team": "Candemor Racing Team",
+      "OtherDriverName": "Cesar Sacedo",
+      "OtherTeam": "saoca team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 27,
+      "ImpactSpeed": 3.3564227,
+      "Timestamp": 1768774089,
+      "DriverName": "Cesar Sacedo",
+      "Team": "saoca team",
+      "OtherDriverName": "Fernando Velarde López",
+      "OtherTeam": "Candemor Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 14,
+      "ImpactSpeed": 1.2898123,
+      "Timestamp": 1768774104,
+      "DriverName": "Alejandro Tomeno Calle",
+      "Team": "Calvos Racing Team",
+      "OtherDriverName": "Miguel Mata",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 17,
+      "ImpactSpeed": 4.2964363,
+      "Timestamp": 1768774107,
+      "DriverName": "Miguel Mata",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "Alejandro Tomeno Calle",
+      "OtherTeam": "Calvos Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 6,
+      "ImpactSpeed": 6.965797,
+      "Timestamp": 1768774108,
+      "DriverName": "Fernando Velarde López",
+      "Team": "Candemor Racing Team",
+      "OtherDriverName": "Cesar Sacedo",
+      "OtherTeam": "saoca team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 27,
+      "ImpactSpeed": 16.051445,
+      "Timestamp": 1768774109,
+      "DriverName": "Cesar Sacedo",
+      "Team": "saoca team",
+      "OtherDriverName": "Fernando Velarde López",
+      "OtherTeam": "Candemor Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 20,
+      "ImpactSpeed": 2.820703,
+      "Timestamp": 1768774121,
+      "DriverName": "Ezequiel Cherminando",
+      "Team": "Team Chermi",
+      "OtherDriverName": "Daniel Zanotti",
+      "OtherTeam": "SBL TEAM"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 4,
+      "ImpactSpeed": 4.3809175,
+      "Timestamp": 1768774123,
+      "DriverName": "Daniel Zanotti",
+      "Team": "SBL TEAM",
+      "OtherDriverName": "Ezequiel Cherminando",
+      "OtherTeam": "Team Chermi"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 22,
+      "ImpactSpeed": 8.830136,
+      "Timestamp": 1768774215,
+      "DriverName": "enzo diaz cancho",
+      "Team": "full racing canary team",
+      "OtherDriverName": "Rafa Alvarez",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 3,
+      "ImpactSpeed": 10.565001,
+      "Timestamp": 1768774215,
+      "DriverName": "Rafa Alvarez",
+      "Team": "LOA Racing",
+      "OtherDriverName": "enzo diaz cancho",
+      "OtherTeam": "full racing canary team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 17,
+      "ImpactSpeed": 10.215425,
+      "Timestamp": 1768774247,
+      "DriverName": "Miguel Mata",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "Alejandro Tomeno Calle",
+      "OtherTeam": "Calvos Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 14,
+      "ImpactSpeed": 2.4921932,
+      "Timestamp": 1768774249,
+      "DriverName": "Alejandro Tomeno Calle",
+      "Team": "Calvos Racing Team",
+      "OtherDriverName": "Miguel Mata",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 18,
+      "ImpactSpeed": 2.2989469,
+      "Timestamp": 1768774249,
+      "DriverName": "Rui Martins",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "Samuel Navarro",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 8,
+      "ImpactSpeed": 6.3685875,
+      "Timestamp": 1768774251,
+      "DriverName": "Samuel Navarro",
+      "Team": "",
+      "OtherDriverName": "Rui Martins",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 17,
+      "ImpactSpeed": 8.7335205,
+      "Timestamp": 1768774252,
+      "DriverName": "Miguel Mata",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "Alejandro Tomeno Calle",
+      "OtherTeam": "Calvos Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 14,
+      "ImpactSpeed": 9.308311,
+      "Timestamp": 1768774254,
+      "DriverName": "Alejandro Tomeno Calle",
+      "Team": "Calvos Racing Team",
+      "OtherDriverName": "Miguel Mata",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 10,
+      "ImpactSpeed": 1.9741343,
+      "Timestamp": 1768774303,
+      "DriverName": "Daniel Barón",
+      "Team": "AuTornay Racing Team",
+      "OtherDriverName": "Cesar Sacedo",
+      "OtherTeam": "saoca team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 27,
+      "ImpactSpeed": 2.2590919,
+      "Timestamp": 1768774304,
+      "DriverName": "Cesar Sacedo",
+      "Team": "saoca team",
+      "OtherDriverName": "Daniel Barón",
+      "OtherTeam": "AuTornay Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 4,
+      "ImpactSpeed": 19.884361,
+      "Timestamp": 1768774334,
+      "DriverName": "Daniel Zanotti",
+      "Team": "SBL TEAM",
+      "OtherDriverName": "Fernando Velarde López",
+      "OtherTeam": "Candemor Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 17,
+      "ImpactSpeed": 2.3239694,
+      "Timestamp": 1768774347,
+      "DriverName": "Miguel Mata",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "Alejandro Tomeno Calle",
+      "OtherTeam": "Calvos Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 14,
+      "ImpactSpeed": 1.5586294,
+      "Timestamp": 1768774349,
+      "DriverName": "Alejandro Tomeno Calle",
+      "Team": "Calvos Racing Team",
+      "OtherDriverName": "Miguel Mata",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 7,
+      "ImpactSpeed": 9.941639,
+      "Timestamp": 1768774353,
+      "DriverName": "Sergi Morera",
+      "Team": "Buhos Racing",
+      "OtherDriverName": "Rui Martins",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 18,
+      "ImpactSpeed": 4.4644685,
+      "Timestamp": 1768774354,
+      "DriverName": "Rui Martins",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "Sergi Morera",
+      "OtherTeam": "Buhos Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 9,
+      "ImpactSpeed": 16.854294,
+      "Timestamp": 1768774466,
+      "DriverName": "Sergio Diaz",
+      "Team": "",
+      "OtherDriverName": "Juan Carlos Ortega",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 15,
+      "ImpactSpeed": 10.033516,
+      "Timestamp": 1768774466,
+      "DriverName": "Juan Carlos Ortega",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Sergio Diaz",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 19,
+      "ImpactSpeed": 6.491313,
+      "Timestamp": 1768774506,
+      "DriverName": "Oscar Cabrera",
+      "Team": "Candemor Racing Team",
+      "OtherDriverName": "enzo diaz cancho",
+      "OtherTeam": "full racing canary team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 22,
+      "ImpactSpeed": 6.774076,
+      "Timestamp": 1768774510,
+      "DriverName": "enzo diaz cancho",
+      "Team": "full racing canary team",
+      "OtherDriverName": "Oscar Cabrera",
+      "OtherTeam": "Candemor Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 19,
+      "ImpactSpeed": 5.8096275,
+      "Timestamp": 1768774511,
+      "DriverName": "Oscar Cabrera",
+      "Team": "Candemor Racing Team",
+      "OtherDriverName": "enzo diaz cancho",
+      "OtherTeam": "full racing canary team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 14,
+      "ImpactSpeed": 13.312993,
+      "Timestamp": 1768774514,
+      "DriverName": "Alejandro Tomeno Calle",
+      "Team": "Calvos Racing Team",
+      "OtherDriverName": "Miguel Mata",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 17,
+      "ImpactSpeed": 5.8668485,
+      "Timestamp": 1768774517,
+      "DriverName": "Miguel Mata",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "Alejandro Tomeno Calle",
+      "OtherTeam": "Calvos Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 14,
+      "ImpactSpeed": 0.7206941,
+      "Timestamp": 1768774519,
+      "DriverName": "Alejandro Tomeno Calle",
+      "Team": "Calvos Racing Team",
+      "OtherDriverName": "Miguel Mata",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 21,
+      "ImpactSpeed": 17.019186,
+      "Timestamp": 1768774696,
+      "DriverName": "Montoro",
+      "Team": "BMT Racing",
+      "OtherDriverName": "Miguel Pimenta",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 13,
+      "ImpactSpeed": 6.1903567,
+      "Timestamp": 1768774696,
+      "DriverName": "Miguel Pimenta",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "Montoro",
+      "OtherTeam": "BMT Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 14,
+      "ImpactSpeed": 4.0875316,
+      "Timestamp": 1768774749,
+      "DriverName": "Alejandro Tomeno Calle",
+      "Team": "Calvos Racing Team",
+      "OtherDriverName": "Diogo Marques",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 29,
+      "ImpactSpeed": 7.0451264,
+      "Timestamp": 1768774753,
+      "DriverName": "Diogo Marques",
+      "Team": "",
+      "OtherDriverName": "Alejandro Tomeno Calle",
+      "OtherTeam": "Calvos Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 14,
+      "ImpactSpeed": 3.4260378,
+      "Timestamp": 1768774754,
+      "DriverName": "Alejandro Tomeno Calle",
+      "Team": "Calvos Racing Team",
+      "OtherDriverName": "Diogo Marques",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 29,
+      "ImpactSpeed": 10.152382,
+      "Timestamp": 1768774758,
+      "DriverName": "Diogo Marques",
+      "Team": "",
+      "OtherDriverName": "Alejandro Tomeno Calle",
+      "OtherTeam": "Calvos Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 14,
+      "ImpactSpeed": 8.265817,
+      "Timestamp": 1768774759,
+      "DriverName": "Alejandro Tomeno Calle",
+      "Team": "Calvos Racing Team",
+      "OtherDriverName": "Diogo Marques",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 29,
+      "ImpactSpeed": 12.16402,
+      "Timestamp": 1768774783,
+      "DriverName": "Diogo Marques",
+      "Team": "",
+      "OtherDriverName": "Alejandro Tomeno Calle",
+      "OtherTeam": "Calvos Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 14,
+      "ImpactSpeed": 10.927326,
+      "Timestamp": 1768774784,
+      "DriverName": "Alejandro Tomeno Calle",
+      "Team": "Calvos Racing Team",
+      "OtherDriverName": "Diogo Marques",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 28,
+      "ImpactSpeed": 11.322516,
+      "Timestamp": 1768774815,
+      "DriverName": "German Tarazona",
+      "Team": "AGUETA RACING",
+      "OtherDriverName": "Daniel Inácio",
+      "OtherTeam": "Codoil Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 23,
+      "ImpactSpeed": 4.345776,
+      "Timestamp": 1768774815,
+      "DriverName": "Daniel Inácio",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "German Tarazona",
+      "OtherTeam": "AGUETA RACING"
+    },
+    {
+      "Type": "COLLISION_WITH_ENV",
+      "CarId": 23,
+      "ImpactSpeed": 48.628487,
+      "Timestamp": 1768774820,
+      "DriverName": "Daniel Inácio",
+      "Team": "Codoil Motorsport",
+      "OtherDriverName": "",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 26,
+      "ImpactSpeed": 6.097361,
+      "Timestamp": 1768774971,
+      "DriverName": "Jose Miguel Romay",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Ezequiel Cherminando",
+      "OtherTeam": "Team Chermi"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 20,
+      "ImpactSpeed": 6.2716017,
+      "Timestamp": 1768774972,
+      "DriverName": "Ezequiel Cherminando",
+      "Team": "Team Chermi",
+      "OtherDriverName": "Jose Miguel Romay",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 29,
+      "ImpactSpeed": 11.744149,
+      "Timestamp": 1768774973,
+      "DriverName": "Diogo Marques",
+      "Team": "",
+      "OtherDriverName": "Alejandro Tomeno Calle",
+      "OtherTeam": "Calvos Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 14,
+      "ImpactSpeed": 14.895983,
+      "Timestamp": 1768774974,
+      "DriverName": "Alejandro Tomeno Calle",
+      "Team": "Calvos Racing Team",
+      "OtherDriverName": "Diogo Marques",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 0,
+      "ImpactSpeed": 10.061801,
+      "Timestamp": 1768774981,
+      "DriverName": "Francisco Jose Perez Paredes",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Frederico Sampaio",
+      "OtherTeam": "Galgo Motorsport"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 5,
+      "ImpactSpeed": 9.642282,
+      "Timestamp": 1768774983,
+      "DriverName": "Frederico Sampaio",
+      "Team": "Galgo Motorsport",
+      "OtherDriverName": "Francisco Jose Perez Paredes",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 8,
+      "ImpactSpeed": 23.392752,
+      "Timestamp": 1768774986,
+      "DriverName": "Samuel Navarro",
+      "Team": "",
+      "OtherDriverName": "Alejandro Tomeno Calle",
+      "OtherTeam": "Calvos Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 14,
+      "ImpactSpeed": 23.17787,
+      "Timestamp": 1768774989,
+      "DriverName": "Alejandro Tomeno Calle",
+      "Team": "Calvos Racing Team",
+      "OtherDriverName": "Samuel Navarro",
+      "OtherTeam": ""
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 8,
+      "ImpactSpeed": 2.1664972,
+      "Timestamp": 1768774991,
+      "DriverName": "Samuel Navarro",
+      "Team": "",
+      "OtherDriverName": "Alejandro Tomeno Calle",
+      "OtherTeam": "Calvos Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 10,
+      "ImpactSpeed": 8.703221,
+      "Timestamp": 1768775008,
+      "DriverName": "Daniel Barón",
+      "Team": "AuTornay Racing Team",
+      "OtherDriverName": "Cesar Sacedo",
+      "OtherTeam": "saoca team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 27,
+      "ImpactSpeed": 7.3912315,
+      "Timestamp": 1768775009,
+      "DriverName": "Cesar Sacedo",
+      "Team": "saoca team",
+      "OtherDriverName": "Daniel Barón",
+      "OtherTeam": "AuTornay Racing Team"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 3,
+      "ImpactSpeed": 38.592487,
+      "Timestamp": 1768775026,
+      "DriverName": "Rafa Alvarez",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Juan Carlos Ortega",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 15,
+      "ImpactSpeed": 38.619926,
+      "Timestamp": 1768775026,
+      "DriverName": "Juan Carlos Ortega",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Rafa Alvarez",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 3,
+      "ImpactSpeed": 18.08951,
+      "Timestamp": 1768775031,
+      "DriverName": "Rafa Alvarez",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Juan Carlos Ortega",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 15,
+      "ImpactSpeed": 17.478386,
+      "Timestamp": 1768775031,
+      "DriverName": "Juan Carlos Ortega",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Rafa Alvarez",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 2,
+      "ImpactSpeed": 144.83363,
+      "Timestamp": 1768775034,
+      "DriverName": "Akira",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Rafa Alvarez",
+      "OtherTeam": "LOA Racing"
+    },
+    {
+      "Type": "COLLISION_WITH_CAR",
+      "CarId": 3,
+      "ImpactSpeed": 157.67122,
+      "Timestamp": 1768775036,
+      "DriverName": "Rafa Alvarez",
+      "Team": "LOA Racing",
+      "OtherDriverName": "Akira",
+      "OtherTeam": "LOA Racing"
+    }
+  ]
+}

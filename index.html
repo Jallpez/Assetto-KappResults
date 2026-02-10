@@ -1393,7 +1393,12 @@
     <div class="container">
         <h1>🏁 ASSETTO CORSA RACING 🏁</h1>
         
-        <div class="race-buttons">
+        <div class="view-toggle" style="margin-bottom: 15px;">
+            <button class="active" id="champSuperGT" onclick="selectChampionship('SuperGT')">🏎️ SUPER GT</button>
+            <button id="champCopaClio" onclick="selectChampionship('Copa_Clio')">🚗 COPA CLIO</button>
+        </div>
+        
+        <div class="race-buttons" id="raceButtonsContainer">
             <button class="race-btn" onclick="loadRace(1)">Ronda 1</button>
             <button class="race-btn" onclick="loadRace(2)">Ronda 2</button>
             <button class="race-btn" onclick="loadRace(3)">Ronda 3</button>
@@ -2413,8 +2418,34 @@
             }
         }
 
+        let currentChampionship = 'SuperGT';
+        const championshipConfig = {
+            'SuperGT': { folder: 'SuperGT', rounds: 4, name: 'SUPER GT', filePattern: 'Ronda {n}.json' },
+            'Copa_Clio': { folder: 'Copa_Clio', rounds: 2, name: 'COPA CLIO', filePattern: 'Ronda{n} .json' }
+        };
+
+        function selectChampionship(champ) {
+            currentChampionship = champ;
+            const config = championshipConfig[champ];
+            
+            // Actualizar botones de campeonato
+            document.getElementById('champSuperGT').classList.toggle('active', champ === 'SuperGT');
+            document.getElementById('champCopaClio').classList.toggle('active', champ === 'Copa_Clio');
+            
+            // Generar botones de rondas
+            let html = '';
+            for (let i = 1; i <= config.rounds; i++) {
+                html += `<button class="race-btn" onclick="loadRace(${i})">Ronda ${i}</button>`;
+            }
+            document.getElementById('raceButtonsContainer').innerHTML = html;
+            
+            // Cargar primera ronda
+            loadRace(1);
+        }
+
         function loadRace(raceNumber) {
-            const racePath = `SuperGT/Ronda ${raceNumber}.json`;
+            const config = championshipConfig[currentChampionship];
+            const racePath = `${config.folder}/${config.filePattern.replace('{n}', raceNumber)}`;
             
             // Limpiar el intervalo de animación existente si lo hay
             if (animationInterval) {
